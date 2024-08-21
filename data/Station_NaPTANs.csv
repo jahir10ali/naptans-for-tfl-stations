@@ -1,0 +1,512 @@
+Station Name,NaPTAN ID,Hub NaPTAN,Lines
+Amersham Underground Station,940GZZLUAMS,HUBAMR,[Metropolitan]
+Chalfont & Latimer Underground Station,940GZZLUCAL,HUBCFO,[Metropolitan]
+Chesham Underground Station,940GZZLUCSM,N/A,[Metropolitan]
+Buckhurst Hill Underground Station,940GZZLUBKH,N/A,[Central]
+Chigwell Underground Station,940GZZLUCWL,N/A,[Central]
+Debden Underground Station,940GZZLUDBN,N/A,[Central]
+Epping Underground Station,940GZZLUEPG,N/A,[Central]
+Grange Hill Underground Station,940GZZLUGGH,N/A,[Central]
+Loughton Underground Station,940GZZLULGN,N/A,[Central]
+Theydon Bois Underground Station,940GZZLUTHB,N/A,[Central]
+Croxley Underground Station,940GZZLUCXY,N/A,[Metropolitan]
+Chorleywood Underground Station,940GZZLUCYD,HUBCLW,[Metropolitan]
+Moor Park Underground Station,940GZZLUMPK,N/A,[Metropolitan]
+Rickmansworth Underground Station,940GZZLURKW,HUBRIC,[Metropolitan]
+Watford Underground Station,940GZZLUWAF,N/A,[Metropolitan]
+Acton Town Underground Station,940GZZLUACT,N/A,"[District, Piccadilly]"
+Archway Underground Station,940GZZLUACY,N/A,[Northern]
+Aldgate East Underground Station,940GZZLUADE,N/A,"[District, Hammersmith & City]"
+Angel Underground Station,940GZZLUAGL,N/A,[Northern]
+Aldgate Underground Station,940GZZLUALD,N/A,"[Circle, Metropolitan]"
+Alperton Underground Station,940GZZLUALP,N/A,[Piccadilly]
+Arnos Grove Underground Station,940GZZLUASG,N/A,[Piccadilly]
+Arsenal Underground Station,940GZZLUASL,N/A,[Piccadilly]
+Bromley-By-Bow Underground Station,940GZZLUBBB,N/A,"[District, Hammersmith & City]"
+Barbican Underground Station,940GZZLUBBN,N/A,"[Circle, Hammersmith & City, Metropolitan]"
+Bounds Green Underground Station,940GZZLUBDS,N/A,[Piccadilly]
+Becontree Underground Station,940GZZLUBEC,N/A,[District]
+Barkingside Underground Station,940GZZLUBKE,N/A,[Central]
+Blackfriars Underground Station,940GZZLUBKF,HUBBFR,"[Circle, District]"
+Bethnal Green Underground Station,940GZZLUBLG,N/A,[Central]
+Balham Underground Station,940GZZLUBLM,HUBBAL,[Northern]
+Bermondsey Underground Station,940GZZLUBMY,N/A,[Jubilee]
+Bond Street Underground Station,940GZZLUBND,HUBBDS,"[Central, Elizabeth line, Jubilee]"
+Bank Underground Station,940GZZLUBNK,HUBBAN,"[Central, DLR, Northern, Waterloo & City]"
+Borough Underground Station,940GZZLUBOR,N/A,[Northern]
+Boston Manor Underground Station,940GZZLUBOS,N/A,[Piccadilly]
+Barons Court Underground Station,940GZZLUBSC,N/A,"[District, Piccadilly]"
+Baker Street Underground Station,940GZZLUBST,N/A,"[Bakerloo, Circle, Hammersmith & City, Jubilee, Metropolitan]"
+Burnt Oak Underground Station,940GZZLUBTK,N/A,[Northern]
+Brent Cross Underground Station,940GZZLUBTX,N/A,[Northern]
+Bow Road Underground Station,940GZZLUBWR,N/A,"[District, Hammersmith & City]"
+Bayswater Underground Station,940GZZLUBWT,N/A,"[Circle, District]"
+Brixton Underground Station,940GZZLUBXN,HUBBRX,[Victoria]
+Belsize Park Underground Station,940GZZLUBZP,N/A,[Northern]
+Caledonian Road Underground Station,940GZZLUCAR,N/A,[Piccadilly]
+Chalk Farm Underground Station,940GZZLUCFM,N/A,[Northern]
+Covent Garden Underground Station,940GZZLUCGN,N/A,[Piccadilly]
+Chancery Lane Underground Station,940GZZLUCHL,N/A,[Central]
+Charing Cross Underground Station,940GZZLUCHX,HUBCHX,"[Bakerloo, Northern]"
+Cockfosters Underground Station,940GZZLUCKS,N/A,[Piccadilly]
+Colindale Underground Station,940GZZLUCND,N/A,[Northern]
+Clapham Common Underground Station,940GZZLUCPC,N/A,[Northern]
+Canons Park Underground Station,940GZZLUCPK,N/A,[Jubilee]
+Clapham North Underground Station,940GZZLUCPN,N/A,[Northern]
+Clapham South Underground Station,940GZZLUCPS,N/A,[Northern]
+Colliers Wood Underground Station,940GZZLUCSD,N/A,[Northern]
+Cannon Street Underground Station,940GZZLUCST,HUBCST,"[Circle, District]"
+Camden Town Underground Station,940GZZLUCTN,N/A,[Northern]
+Chiswick Park Underground Station,940GZZLUCWP,N/A,[District]
+Canary Wharf Station,940GZZLUCYF,HUBCAW,"[DLR, Elizabeth line, Jubilee]"
+Dagenham East Underground Station,940GZZLUDGE,N/A,[District]
+Dagenham Heathway Underground Station,940GZZLUDGY,N/A,[District]
+Dollis Hill Underground Station,940GZZLUDOH,N/A,[Jubilee]
+Elephant & Castle Underground Station,940GZZLUEAC,HUBEPH,"[Bakerloo, Northern]"
+Eastcote Underground Station,940GZZLUEAE,N/A,"[Metropolitan, Piccadilly]"
+East Acton Underground Station,940GZZLUEAN,N/A,[Central]
+Ealing Common Underground Station,940GZZLUECM,N/A,"[District, Piccadilly]"
+Earl's Court Underground Station,940GZZLUECT,N/A,"[District, Piccadilly]"
+East Finchley Underground Station,940GZZLUEFY,N/A,[Northern]
+East Ham Underground Station,940GZZLUEHM,N/A,"[District, Hammersmith & City]"
+Embankment Underground Station,940GZZLUEMB,N/A,"[Bakerloo, Circle, District, Northern]"
+Elm Park Underground Station,940GZZLUEPK,N/A,[District]
+East Putney Underground Station,940GZZLUEPY,N/A,[District]
+Edgware Road (Bakerloo Line) Underground Station,940GZZLUERB,N/A,[Bakerloo]
+Edgware Road (Circle Line) Underground Station,940GZZLUERC,N/A,"[Circle, District, Hammersmith & City]"
+Euston Square Underground Station,940GZZLUESQ,N/A,"[Circle, Hammersmith & City, Metropolitan]"
+Fulham Broadway Underground Station,940GZZLUFBY,N/A,[District]
+Farringdon Underground Station,940GZZLUFCN,HUBZFD,"[Circle, Elizabeth line, Hammersmith & City, Metropolitan]"
+Fairlop Underground Station,940GZZLUFLP,N/A,[Central]
+Finsbury Park Underground Station,940GZZLUFPK,HUBFPK,"[Piccadilly, Victoria]"
+Finchley Central Underground Station,940GZZLUFYC,N/A,[Northern]
+Finchley Road Underground Station,940GZZLUFYR,N/A,"[Jubilee, Metropolitan]"
+Goodge Street Underground Station,940GZZLUGDG,N/A,[Northern]
+Golders Green Underground Station,940GZZLUGGN,N/A,[Northern]
+Goldhawk Road Underground Station,940GZZLUGHK,N/A,"[Circle, Hammersmith & City]"
+Green Park Underground Station,940GZZLUGPK,N/A,"[Jubilee, Piccadilly, Victoria]"
+Great Portland Street Underground Station,940GZZLUGPS,N/A,"[Circle, Hammersmith & City, Metropolitan]"
+Gants Hill Underground Station,940GZZLUGTH,N/A,[Central]
+Gloucester Road Underground Station,940GZZLUGTR,N/A,"[Circle, District, Piccadilly]"
+Holborn Underground Station,940GZZLUHBN,N/A,"[Central, Piccadilly]"
+High Barnet Underground Station,940GZZLUHBT,N/A,[Northern]
+Hornchurch Underground Station,940GZZLUHCH,N/A,[District]
+Hendon Central Underground Station,940GZZLUHCL,N/A,[Northern]
+Hillingdon Underground Station,940GZZLUHGD,N/A,"[Metropolitan, Piccadilly]"
+Hanger Lane Underground Station,940GZZLUHGR,N/A,[Central]
+Highgate Underground Station,940GZZLUHGT,N/A,[Northern]
+Hatton Cross Underground Station,940GZZLUHNX,N/A,[Piccadilly]
+Hyde Park Corner Underground Station,940GZZLUHPC,N/A,[Piccadilly]
+Holland Park Underground Station,940GZZLUHPK,N/A,[Central]
+Heathrow Terminals 2 & 3 Underground Station,940GZZLUHRC,HUBH13,"[Elizabeth line, Piccadilly]"
+Hammersmith Stn / H&c and Circle Lines,940GZZLUHSC,HUBHMS,"[Circle, District, Hammersmith & City, Piccadilly]"
+Hammersmith (Dist&Picc Line) Underground Station,940GZZLUHSD,HUBHMS,"[Circle, District, Hammersmith & City, Piccadilly]"
+High Street Kensington Underground Station,940GZZLUHSK,N/A,"[Circle, District]"
+Hampstead Underground Station,940GZZLUHTD,N/A,[Northern]
+Hounslow Central Underground Station,940GZZLUHWC,N/A,[Piccadilly]
+Hounslow East Underground Station,940GZZLUHWE,N/A,[Piccadilly]
+Hounslow West Underground Station,940GZZLUHWT,N/A,[Piccadilly]
+Holloway Road Underground Station,940GZZLUHWY,N/A,[Piccadilly]
+Ickenham Underground Station,940GZZLUICK,N/A,"[Metropolitan, Piccadilly]"
+Kilburn Underground Station,940GZZLUKBN,N/A,[Jubilee]
+Kingsbury Underground Station,940GZZLUKBY,N/A,[Jubilee]
+Knightsbridge Underground Station,940GZZLUKNB,N/A,[Piccadilly]
+Kennington Underground Station,940GZZLUKNG,N/A,[Northern]
+Kilburn Park Underground Station,940GZZLUKPK,N/A,[Bakerloo]
+King's Cross St.Pancras Underground Station,940GZZLUKSX,HUBKGX,"[Circle, Hammersmith & City, Metropolitan, Northern, Piccadilly, Victoria]"
+Ladbroke Grove Underground Station,940GZZLULAD,N/A,"[Circle, Hammersmith & City]"
+Lambeth North Underground Station,940GZZLULBN,N/A,[Bakerloo]
+Lancaster Gate Underground Station,940GZZLULGT,N/A,[Central]
+London Bridge Underground Station,940GZZLULNB,HUBLBG,"[Jubilee, Northern]"
+Latimer Road Underground Station,940GZZLULRD,N/A,"[Circle, Hammersmith & City]"
+Leicester Square Underground Station,940GZZLULSQ,N/A,"[Northern, Piccadilly]"
+Liverpool Street Underground Station,940GZZLULVT,HUBLST,"[Central, Circle, Elizabeth line, Hammersmith & City, London Overground, Metropolitan]"
+Leyton Underground Station,940GZZLULYN,N/A,[Central]
+Leytonstone Underground Station,940GZZLULYS,N/A,[Central]
+Marble Arch Underground Station,940GZZLUMBA,N/A,[Central]
+Morden Underground Station,940GZZLUMDN,N/A,[Northern]
+Mile End Underground Station,940GZZLUMED,N/A,"[Central, District, Hammersmith & City]"
+Mill Hill East Underground Station,940GZZLUMHL,N/A,[Northern]
+Monument Underground Station,940GZZLUMMT,N/A,"[Circle, District]"
+Manor House Underground Station,940GZZLUMRH,N/A,[Piccadilly]
+Mansion House Underground Station,940GZZLUMSH,N/A,"[Circle, District]"
+Mornington Crescent Underground Station,940GZZLUMTC,N/A,[Northern]
+Maida Vale Underground Station,940GZZLUMVL,N/A,[Bakerloo]
+North Acton Underground Station,940GZZLUNAN,N/A,[Central]
+Newbury Park Underground Station,940GZZLUNBP,N/A,[Central]
+Neasden Underground Station,940GZZLUNDN,N/A,[Jubilee]
+North Ealing Underground Station,940GZZLUNEN,N/A,[Piccadilly]
+Northfields Underground Station,940GZZLUNFD,N/A,[Piccadilly]
+North Greenwich Underground Station,940GZZLUNGW,HUBNGW,[Jubilee]
+North Harrow Underground Station,940GZZLUNHA,N/A,[Metropolitan]
+Notting Hill Gate Underground Station,940GZZLUNHG,N/A,"[Central, Circle, District]"
+Northolt Underground Station,940GZZLUNHT,N/A,[Central]
+Northwick Park Underground Station,940GZZLUNKP,N/A,[Metropolitan]
+Northwood Underground Station,940GZZLUNOW,N/A,[Metropolitan]
+Northwood Hills Underground Station,940GZZLUNWH,N/A,[Metropolitan]
+Oakwood Underground Station,940GZZLUOAK,N/A,[Piccadilly]
+Osterley Underground Station,940GZZLUOSY,N/A,[Piccadilly]
+Oval Underground Station,940GZZLUOVL,N/A,[Northern]
+Oxford Circus Underground Station,940GZZLUOXC,N/A,"[Bakerloo, Central, Victoria]"
+Paddington Underground Station,940GZZLUPAC,HUBPAD,"[Bakerloo, Circle, District, Elizabeth line, Hammersmith & City]"
+Paddington (H&C Line) Underground Station,940GZZLUPAH,HUBPAD,"[Bakerloo, Circle, District, Elizabeth line, Hammersmith & City]"
+Piccadilly Circus Underground Station,940GZZLUPCC,N/A,"[Bakerloo, Piccadilly]"
+Pimlico Underground Station,940GZZLUPCO,N/A,[Victoria]
+Park Royal Underground Station,940GZZLUPKR,N/A,[Piccadilly]
+Plaistow Underground Station,940GZZLUPLW,N/A,"[District, Hammersmith & City]"
+Pinner Underground Station,940GZZLUPNR,N/A,[Metropolitan]
+Preston Road Underground Station,940GZZLUPRD,N/A,[Metropolitan]
+Parsons Green Underground Station,940GZZLUPSG,N/A,[District]
+Perivale Underground Station,940GZZLUPVL,N/A,[Central]
+Putney Bridge Underground Station,940GZZLUPYB,N/A,[District]
+Queensbury Underground Station,940GZZLUQBY,N/A,[Jubilee]
+Queensway Underground Station,940GZZLUQWY,N/A,[Central]
+Redbridge Underground Station,940GZZLURBG,N/A,[Central]
+Regent's Park Underground Station,940GZZLURGP,N/A,[Bakerloo]
+Ruislip Gardens Underground Station,940GZZLURSG,N/A,[Central]
+Ruislip Manor Underground Station,940GZZLURSM,N/A,"[Metropolitan, Piccadilly]"
+Ruislip Underground Station,940GZZLURSP,N/A,"[Metropolitan, Piccadilly]"
+Russell Square Underground Station,940GZZLURSQ,N/A,[Piccadilly]
+Ravenscourt Park Underground Station,940GZZLURVP,N/A,[District]
+Roding Valley Underground Station,940GZZLURVY,N/A,[Central]
+Rayners Lane Underground Station,940GZZLURYL,N/A,"[Metropolitan, Piccadilly]"
+Royal Oak Underground Station,940GZZLURYO,N/A,"[Circle, Hammersmith & City]"
+Shepherd's Bush (Central Line) Underground Stn,940GZZLUSBC,HUBSPB,"[Central, London Overground]"
+Shepherd's Bush Market Underground Station,940GZZLUSBM,N/A,"[Circle, Hammersmith & City]"
+South Ealing Underground Station,940GZZLUSEA,N/A,[Piccadilly]
+Stamford Brook Underground Station,940GZZLUSFB,N/A,[District]
+Southfields Underground Station,940GZZLUSFS,N/A,[District]
+Stepney Green Underground Station,940GZZLUSGN,N/A,"[District, Hammersmith & City]"
+Southgate Underground Station,940GZZLUSGT,N/A,[Piccadilly]
+South Harrow Underground Station,940GZZLUSHH,N/A,[Piccadilly]
+St. James's Park Underground Station,940GZZLUSJP,N/A,"[Circle, District]"
+St John's Wood Underground Station,940GZZLUSJW,N/A,[Jubilee]
+South Kensington Underground Station,940GZZLUSKS,N/A,"[Circle, District, Piccadilly]"
+Stockwell Underground Station,940GZZLUSKW,N/A,"[Northern, Victoria]"
+Snaresbrook Underground Station,940GZZLUSNB,N/A,[Central]
+St. Paul's Underground Station,940GZZLUSPU,N/A,[Central]
+Sloane Square Underground Station,940GZZLUSSQ,N/A,"[Circle, District]"
+Stanmore Underground Station,940GZZLUSTM,N/A,[Jubilee]
+Sudbury Hill Underground Station,940GZZLUSUH,N/A,[Piccadilly]
+Sudbury Town Underground Station,940GZZLUSUT,N/A,[Piccadilly]
+Seven Sisters Underground Station,940GZZLUSVS,HUBSVS,"[London Overground, Victoria]"
+Swiss Cottage Underground Station,940GZZLUSWC,N/A,[Jubilee]
+South Woodford Underground Station,940GZZLUSWF,N/A,[Central]
+Southwark Underground Station,940GZZLUSWK,N/A,[Jubilee]
+South Wimbledon Underground Station,940GZZLUSWN,N/A,[Northern]
+Totteridge & Whetstone Underground Station,940GZZLUTAW,N/A,[Northern]
+Tooting Bec Underground Station,940GZZLUTBC,N/A,[Northern]
+Tooting Broadway Underground Station,940GZZLUTBY,N/A,[Northern]
+Tottenham Court Road Underground Station,940GZZLUTCR,HUBTCR,"[Central, Elizabeth line, Northern]"
+Tufnell Park Underground Station,940GZZLUTFP,N/A,[Northern]
+Temple Underground Station,940GZZLUTMP,N/A,"[Circle, District]"
+Turnham Green Underground Station,940GZZLUTNG,N/A,"[District, Piccadilly]"
+Turnpike Lane Underground Station,940GZZLUTPN,N/A,[Piccadilly]
+Tower Hill Underground Station,940GZZLUTWH,N/A,"[Circle, District]"
+Upminster Bridge Underground Station,940GZZLUUPB,N/A,[District]
+Upton Park Underground Station,940GZZLUUPK,N/A,"[District, Hammersmith & City]"
+Upney Underground Station,940GZZLUUPY,N/A,[District]
+Uxbridge Underground Station,940GZZLUUXB,N/A,"[Metropolitan, Piccadilly]"
+Victoria Underground Station,940GZZLUVIC,HUBVIC,"[Circle, District, Victoria]"
+Vauxhall Underground Station,940GZZLUVXL,HUBVXH,[Victoria]
+White City Underground Station,940GZZLUWCY,N/A,[Central]
+West Finchley Underground Station,940GZZLUWFN,N/A,[Northern]
+West Hampstead Station,940GZZLUWHP,HUBWHD,"[Jubilee, London Overground]"
+West Harrow Underground Station,940GZZLUWHW,N/A,[Metropolitan]
+Willesden Green Underground Station,940GZZLUWIG,N/A,[Jubilee]
+Wimbledon Park Underground Station,940GZZLUWIP,N/A,[District]
+Warwick Avenue Underground Station,940GZZLUWKA,N/A,[Bakerloo]
+West Kensington Underground Station,940GZZLUWKN,N/A,[District]
+Wood Lane Underground Station,940GZZLUWLA,N/A,"[Circle, Hammersmith & City]"
+Waterloo Underground Station,940GZZLUWLO,HUBWAT,"[Bakerloo, Jubilee, Northern, Waterloo & City]"
+Woodford Underground Station,940GZZLUWOF,N/A,[Central]
+Wood Green Underground Station,940GZZLUWOG,N/A,[Piccadilly]
+Woodside Park Underground Station,940GZZLUWOP,N/A,[Northern]
+Warren Street Underground Station,940GZZLUWRR,N/A,"[Northern, Victoria]"
+Wanstead Underground Station,940GZZLUWSD,N/A,[Central]
+Westminster Underground Station,940GZZLUWSM,HUBWSM,"[Circle, District, Jubilee]"
+Westbourne Park Underground Station,940GZZLUWSP,N/A,"[Circle, Hammersmith & City]"
+West Acton Underground Station,940GZZLUWTA,N/A,[Central]
+Wembley Park Underground Station,940GZZLUWYP,N/A,"[Jubilee, Metropolitan]"
+Battersea Power Station Underground Station,940GZZBPSUST,N/A,[Northern]
+Barking Underground Station,940GZZLUBKG,HUBBKG,"[District, Hammersmith & City, London Overground]"
+Blackhorse Road Underground Station,940GZZLUBLR,HUBBHO,"[London Overground, Victoria]"
+Canning Town Underground Station,940GZZLUCGT,HUBCAN,"[DLR, Jubilee]"
+Canada Water Underground Station,940GZZLUCWR,HUBZCW,"[Jubilee, London Overground]"
+Ealing Broadway Underground Station,940GZZLUEBY,HUBEAL,"[Central, District, Elizabeth line]"
+Edgware Underground Station,940GZZLUEGW,N/A,[Northern]
+Euston Underground Station,940GZZLUEUS,HUBEUS,"[London Overground, Northern, Victoria]"
+Gunnersbury Underground Station,940GZZLUGBY,HUBGUN,"[District, London Overground]"
+Greenford Underground Station,940GZZLUGFD,HUBGFD,[Central]
+Highbury & Islington Underground Station,940GZZLUHAI,HUBHHY,"[London Overground, Victoria]"
+Harrow & Wealdstone Underground Station,940GZZLUHAW,HUBHRW,"[Bakerloo, London Overground]"
+Hainault Underground Station,940GZZLUHLT,N/A,[Central]
+Harrow-on-the-Hill Underground Station,940GZZLUHOH,HUBHOH,[Metropolitan]
+Heathrow Terminal 4 Underground Station,940GZZLUHR4,HUBHX4,"[Elizabeth line, Piccadilly]"
+Heathrow Terminal 5 Underground Station,940GZZLUHR5,HUBHX5,"[Elizabeth line, Piccadilly]"
+Harlesden Underground Station,940GZZLUHSN,HUBHDN,"[Bakerloo, London Overground]"
+Kenton Underground Station,940GZZLUKEN,HUBKNT,"[Bakerloo, London Overground]"
+Kensington (Olympia) Underground Station,940GZZLUKOY,HUBKPA,"[District, London Overground]"
+Kentish Town Underground Station,940GZZLUKSH,HUBKTN,[Northern]
+Kensal Green Underground Station,940GZZLUKSL,HUBKNL,"[Bakerloo, London Overground]"
+Kew Gardens Underground Station,940GZZLUKWG,HUBKWG,"[District, London Overground]"
+Moorgate Underground Station,940GZZLUMGT,HUBZMG,"[Circle, Hammersmith & City, Metropolitan, Northern]"
+Marylebone Underground Station,940GZZLUMYB,HUBMYB,[Bakerloo]
+North Wembley Underground Station,940GZZLUNWY,HUBNWB,"[Bakerloo, London Overground]"
+Old Street Underground Station,940GZZLUODS,HUBOLD,[Northern]
+Queen's Park Underground Station,940GZZLUQPS,HUBQPW,"[Bakerloo, London Overground]"
+Richmond Underground Station,940GZZLURMD,HUBRMD,"[District, London Overground]"
+Stonebridge Park Underground Station,940GZZLUSGP,HUBSBP,"[Bakerloo, London Overground]"
+South Kenton Underground Station,940GZZLUSKT,HUBSOK,"[Bakerloo, London Overground]"
+South Ruislip Underground Station,940GZZLUSRP,HUBSRU,[Central]
+Stratford Underground Station,940GZZLUSTD,HUBSRA,"[Central, DLR, Elizabeth line, Jubilee, London Overground]"
+Tottenham Hale Underground Station,940GZZLUTMH,HUBTOM,[Victoria]
+Upminster Underground Station,940GZZLUUPM,HUBUPM,"[District, London Overground]"
+West Brompton Underground Station,940GZZLUWBN,HUBWBP,"[District, London Overground]"
+West Ham Underground Station,940GZZLUWHM,HUBWEH,"[District, DLR, Hammersmith & City, Jubilee]"
+Wimbledon Underground Station,940GZZLUWIM,HUBWIM,"[District, Tram]"
+Willesden Junction Underground Station,940GZZLUWJN,HUBWIJ,"[Bakerloo, London Overground]"
+Whitechapel Underground Station,940GZZLUWPL,HUBZWL,"[District, Elizabeth line, Hammersmith & City, London Overground]"
+West Ruislip Underground Station,940GZZLUWRP,HUBWRU,[Central]
+Walthamstow Central Underground Station,940GZZLUWWL,HUBWHC,"[London Overground, Victoria]"
+Wembley Central Underground Station,940GZZLUWYC,HUBWMB,"[Bakerloo, London Overground]"
+Nine Elms Underground Station,940GZZNEUGST,N/A,[Northern]
+Bushey Rail Station,910GBUSHEY,HUBBSH,[London Overground]
+Bushey Rail Station,910GBUSHYDC,HUBBSH,[London Overground]
+Cheshunt Rail Station,910GCHESHNT,N/A,[London Overground]
+Carpenders Park Rail Station,910GCRPNDPK,N/A,[London Overground]
+Theobalds Grove Rail Station,910GTHBLDSG,N/A,[London Overground]
+Watford High Street Rail Station,910GWATFDHS,N/A,[London Overground]
+Watford Junction Rail Station,910GWATFDJ,HUBWFJ,[London Overground]
+Watford Junction Rail Station,910GWATFJDC,HUBWFJ,[London Overground]
+Acton Central Rail Station,910GACTNCTL,N/A,[London Overground]
+Anerley Rail Station,910GANERLEY,N/A,[London Overground]
+Barking Rail Station,910GBARKING,HUBBKG,"[District, Hammersmith & City, London Overground]"
+Bush Hill Park Rail Station,910GBHILLPK,N/A,[London Overground]
+Barking Riverside Rail Station,910GBKRVS,N/A,[London Overground]
+Blackhorse Road Rail Station,910GBLCHSRD,HUBBHO,"[London Overground, Victoria]"
+Brondesbury Rail Station,910GBRBY,N/A,[London Overground]
+Brondesbury Park Rail Station,910GBRBYPK,N/A,[London Overground]
+Brockley Rail Station,910GBROCKLY,N/A,[London Overground]
+Bruce Grove Rail Station,910GBRUCGRV,N/A,[London Overground]
+Bethnal Green Rail Station,910GBTHNLGR,N/A,[London Overground]
+Cambridge Heath (London) Rail Station,910GCAMHTH,N/A,[London Overground]
+Chingford Rail Station,910GCHINGFD,N/A,[London Overground]
+Clapton Rail Station,910GCLAPTON,N/A,[London Overground]
+Caledonian Road & Barnsbury Rail Station,910GCLDNNRB,N/A,[London Overground]
+Clapham High Street Rail Station,910GCLPHHS,N/A,[London Overground]
+Clapham Junction Rail Station,910GCLPHMJC,HUBCLJ,[London Overground]
+Camden Road Rail Station,910GCMDNRD,N/A,[London Overground]
+Canada Water Rail Station,910GCNDAW,HUBZCW,"[Jubilee, London Overground]"
+Canonbury Rail Station,910GCNNB,N/A,[London Overground]
+Crouch Hill Rail Station,910GCROUCHH,N/A,[London Overground]
+Crystal Palace Rail Station,910GCRYSTLP,HUBCYP,[London Overground]
+Imperial Wharf Rail Station,910GCSEAH,HUBIMP,[London Overground]
+Dalston Junction Rail Station,910GDALS,N/A,[London Overground]
+Dalston Kingsland Rail Station,910GDALSKLD,N/A,[London Overground]
+Denmark Hill Rail Station,910GDENMRKH,N/A,[London Overground]
+Edmonton Green Rail Station,910GEDMNGRN,N/A,[London Overground]
+Emerson Park Rail Station,910GEMRSPKH,N/A,[London Overground]
+Enfield Town Rail Station,910GENFLDTN,N/A,[London Overground]
+London Euston Rail Station,910GEUSTON,HUBEUS,"[London Overground, Northern, Victoria]"
+Finchley Road & Frognal Rail Station,910GFNCHLYR,N/A,[London Overground]
+Forest Hill Rail Station,910GFORESTH,N/A,[London Overground]
+Gunnersbury Rail Station,910GGNRSBRY,HUBGUN,"[District, London Overground]"
+Gospel Oak Rail Station,910GGOSPLOK,N/A,[London Overground]
+Hackney Central Rail Station,910GHACKNYC,N/A,[London Overground]
+Hackney Wick Rail Station,910GHACKNYW,N/A,[London Overground]
+Haggerston Rail Station,910GHAGGERS,N/A,[London Overground]
+Hackney Downs Rail Station,910GHAKNYNM,N/A,[London Overground]
+Harlesden Rail Station,910GHARLSDN,HUBHDN,"[Bakerloo, London Overground]"
+Headstone Lane Rail Station,910GHEDSTNL,N/A,[London Overground]
+Highbury & Islington Rail Station,910GHGHI,HUBHHY,"[London Overground, Victoria]"
+Highams Park Rail Station,910GHGHMSPK,N/A,[London Overground]
+Hampstead Heath Rail Station,910GHMPSTDH,N/A,[London Overground]
+Homerton Rail Station,910GHOMRTON,N/A,[London Overground]
+Honor Oak Park Rail Station,910GHONROPK,N/A,[London Overground]
+Hoxton Rail Station,910GHOXTON,N/A,[London Overground]
+Harringay Green Lanes Rail Station,910GHRGYGL,N/A,[London Overground]
+Harrow & Wealdstone Rail Station,910GHROW,HUBHRW,"[Bakerloo, London Overground]"
+Hatch End Rail Station,910GHTCHEND,N/A,[London Overground]
+Kensington (Olympia) Rail Station,910GKENOLYM,HUBKPA,"[District, London Overground]"
+Kensal Rise Rail Station,910GKENR,N/A,[London Overground]
+Kensal Green Rail Station,910GKENSLG,HUBKNL,"[Bakerloo, London Overground]"
+Kew Gardens Rail Station,910GKEWGRDN,HUBKWG,"[District, London Overground]"
+Kilburn High Road Rail Station,910GKLBRNHR,N/A,[London Overground]
+Kentish Town West Rail Station,910GKNTSHTW,N/A,[London Overground]
+Kenton Rail Station,910GKTON,HUBKNT,"[Bakerloo, London Overground]"
+Leyton Midland Road Rail Station,910GLEYTNMR,N/A,[London Overground]
+London Fields Rail Station,910GLONFLDS,N/A,[London Overground]
+Leytonstone High Road Rail Station,910GLYTNSHR,N/A,[London Overground]
+New Cross Gate Rail Station,910GNEWXGTE,HUBNXG,[London Overground]
+Norwood Junction Rail Station,910GNORWDJ,HUBNWD,[London Overground]
+New Cross Rail Station,910GNWCRELL,HUBNWX,[London Overground]
+North Wembley Rail Station,910GNWEMBLY,HUBNWB,"[Bakerloo, London Overground]"
+Queens Road Peckham Rail Station,910GPCKHMQD,N/A,[London Overground]
+Peckham Rye Rail Station,910GPCKHMRY,N/A,[London Overground]
+Penge West Rail Station,910GPENEW,N/A,[London Overground]
+Queen's Park Rail Station,910GQPRK,HUBQPW,"[Bakerloo, London Overground]"
+Rectory Road Rail Station,910GRCTRYRD,N/A,[London Overground]
+Richmond Rail Station,910GRICHMND,HUBRMD,"[District, London Overground]"
+Romford Rail Station,910GROMFORD,N/A,"[Elizabeth line, London Overground]"
+Rotherhithe Rail Station,910GRTHERHI,N/A,[London Overground]
+South Acton Rail Station,910GSACTON,N/A,[London Overground]
+Southbury Rail Station,910GSBURY,N/A,[London Overground]
+Seven Sisters Rail Station,910GSEVNSIS,HUBSVS,"[London Overground, Victoria]"
+Shadwell Rail Station,910GSHADWEL,HUBSDE,"[DLR, London Overground]"
+South Hampstead Rail Station,910GSHMPSTD,N/A,[London Overground]
+Shepherd's Bush Rail Station,910GSHPDSB,HUBSPB,"[Central, London Overground]"
+Shoreditch High Street Rail Station,910GSHRDHST,N/A,[London Overground]
+Silver Street Rail Station,910GSIVRST,N/A,[London Overground]
+South Kenton Rail Station,910GSKENTON,HUBSOK,"[Bakerloo, London Overground]"
+Stratford Rail Station,910GSTFD,HUBSRA,"[Central, DLR, Elizabeth line, Jubilee, London Overground]"
+St James Street (London) Rail Station,910GSTJMSST,N/A,[London Overground]
+Stoke Newington Rail Station,910GSTKNWNG,N/A,[London Overground]
+Stamford Hill Rail Station,910GSTMFDHL,N/A,[London Overground]
+Stonebridge Park Rail Station,910GSTNBGPK,HUBSBP,"[Bakerloo, London Overground]"
+South Tottenham Rail Station,910GSTOTNHM,N/A,[London Overground]
+Surrey Quays Rail Station,910GSURREYQ,N/A,[London Overground]
+Sydenham Rail Station,910GSYDENHM,HUBSYD,[London Overground]
+Turkey Street Rail Station,910GTURKYST,N/A,[London Overground]
+Upminster Rail Station,910GUPMNSTR,HUBUPM,"[District, London Overground]"
+Upper Holloway Rail Station,910GUPRHLWY,N/A,[London Overground]
+Wapping Rail Station,910GWAPPING,N/A,[London Overground]
+West Brompton Rail Station,910GWBRMPTN,HUBWBP,"[District, London Overground]"
+Whitechapel Rail Station,910GWCHAPEL,HUBZWL,"[District, Elizabeth line, Hammersmith & City, London Overground]"
+West Croydon Rail Station,910GWCROYDN,HUBWCY,"[London Overground, Tram]"
+Woodgrange Park Rail Station,910GWDGRNPK,N/A,[London Overground]
+Wood Street Rail Station,910GWDST,N/A,[London Overground]
+White Hart Lane Rail Station,910GWHHRTLA,N/A,[London Overground]
+West Hampstead Overground Station,910GWHMDSTD,HUBWHD,"[Jubilee, London Overground]"
+Willesden Junction Rail Station,910GWLSDJHL,HUBWIJ,"[Bakerloo, London Overground]"
+Walthamstow Queens Road Rail Station,910GWLTHQRD,N/A,[London Overground]
+Walthamstow Central Rail Station,910GWLTWCEN,HUBWHC,"[London Overground, Victoria]"
+Wembley Central Rail Station,910GWMBY,HUBWMB,"[Bakerloo, London Overground]"
+Wandsworth Road Rail Station,910GWNDSWRD,N/A,[London Overground]
+Wanstead Park Rail Station,910GWNSTDPK,N/A,[London Overground]
+Clapham Junction Rail Station,910GCLPHMJ1,HUBCLJ,[London Overground]
+Liverpool Street Station,910GLIVST,HUBLST,"[Central, Circle, Elizabeth line, Hammersmith & City, London Overground, Metropolitan]"
+Abbey Wood Station,910GABWDXR,HUBABW,[Elizabeth line]
+Acton Main Line Station,910GACTONML,N/A,[Elizabeth line]
+Burnham (Berks) Rail Station,910GBNHAM,N/A,[Elizabeth line]
+Bond Street Station,910GBONDST,HUBBDS,"[Central, Elizabeth line, Jubilee]"
+Brentwood Rail Station,910GBRTWOOD,N/A,[Elizabeth line]
+Canary Wharf Rail Station,910GCANWHRF,HUBCAW,"[DLR, Elizabeth line, Jubilee]"
+Chadwell Heath Station,910GCHDWLHT,N/A,[Elizabeth line]
+Custom House,910GCSTMHSXR,HUBCUS,"[DLR, Elizabeth line]"
+Ealing Broadway Station,910GEALINGB,HUBEAL,"[Central, District, Elizabeth line]"
+Farringdon Station,910GFRNDXR,HUBZFD,"[Circle, Elizabeth line, Hammersmith & City, Metropolitan]"
+Forest Gate Station,910GFRSTGT,N/A,[Elizabeth line]
+Gidea Park Station,910GGIDEAPK,N/A,[Elizabeth line]
+Goodmayes Station,910GGODMAYS,N/A,[Elizabeth line]
+Hanwell Station,910GHANWELL,N/A,[Elizabeth line]
+Hayes & Harlington Station,910GHAYESAH,N/A,[Elizabeth line]
+Harold Wood Station,910GHRLDWOD,N/A,[Elizabeth line]
+Heathrow Terminals 2 & 3 Rail Station,910GHTRWAPT,HUBH13,"[Elizabeth line, Piccadilly]"
+Heathrow Terminal 4,910GHTRWTM4,HUBHX4,"[Elizabeth line, Piccadilly]"
+Heathrow Terminal 5,910GHTRWTM5,HUBHX5,"[Elizabeth line, Piccadilly]"
+Ilford Station,910GILFORD,N/A,[Elizabeth line]
+Iver Rail Station,910GIVER,N/A,[Elizabeth line]
+Langley (Berks) Rail Station,910GLANGLEY,N/A,[Elizabeth line]
+Liverpool Street Station,910GLIVSTLL,HUBLST,"[Central, Circle, Elizabeth line, Hammersmith & City, London Overground, Metropolitan]"
+Manor Park Station,910GMANRPK,N/A,[Elizabeth line]
+Maidenhead Rail Station,910GMDNHEAD,N/A,[Elizabeth line]
+Maryland Station,910GMRYLAND,N/A,[Elizabeth line]
+Paddington Rail Station,910GPADTLL,HUBPAD,"[Bakerloo, Circle, District, Elizabeth line, Hammersmith & City]"
+Paddington Rail Station,910GPADTON,HUBPAD,"[Bakerloo, Circle, District, Elizabeth line, Hammersmith & City]"
+Reading Rail Station,910GRDNGSTN,N/A,[Elizabeth line]
+Shenfield Rail Station,910GSHENFLD,N/A,[Elizabeth line]
+Slough Rail Station,910GSLOUGH,N/A,[Elizabeth line]
+Southall Station,910GSTHALL,N/A,[Elizabeth line]
+Seven Kings Station,910GSVNKNGS,N/A,[Elizabeth line]
+Taplow Rail Station,910GTAPLOW,N/A,[Elizabeth line]
+Tottenham Court Road Station,910GTOTCTRD,HUBTCR,"[Central, Elizabeth line, Northern]"
+Twyford Rail Station,910GTWYFORD,N/A,[Elizabeth line]
+Whitechapel Station,910GWCHAPXR,HUBZWL,"[District, Elizabeth line, Hammersmith & City, London Overground]"
+West Drayton Station,910GWDRYTON,N/A,[Elizabeth line]
+West Ealing Station,910GWEALING,N/A,[Elizabeth line]
+Woolwich Station,910GWOLWXR,N/A,[Elizabeth line]
+Addiscombe Tram Stop,940GZZCRADD,N/A,[Tram]
+Addington Village,940GZZCRADV,N/A,[Tram]
+Ampere Way,940GZZCRAMP,N/A,[Tram]
+Arena,940GZZCRARA,N/A,[Tram]
+Avenue Road,940GZZCRAVE,N/A,[Tram]
+Beddington Lane Tram Stop,940GZZCRBED,N/A,[Tram]
+Beckenham Junction,940GZZCRBEK,HUBBEK,[Tram]
+Belgrave Walk Tram Stop,940GZZCRBGV,N/A,[Tram]
+Birkbeck,940GZZCRBIR,HUBBIR,[Tram]
+Blackhorse Lane,940GZZCRBLA,N/A,[Tram]
+Beckenham Road Tram Stop,940GZZCRBRD,N/A,[Tram]
+George Street,940GZZCRCEN,N/A,[Tram]
+Church Street Tram Stop,940GZZCRCHR,N/A,[Tram]
+Coombe Lane Tram Stop,940GZZCRCOO,N/A,[Tram]
+Tamworth Road / Centrale Tram Stop,940GZZCRCTR,N/A,[Tram]
+Dundonald Road,940GZZCRDDR,N/A,[Tram]
+East Croydon,940GZZCRECR,HUBECY,[Tram]
+Elmers End Station,940GZZCRELM,HUBELM,[Tram]
+Fieldway Tram Stop,940GZZCRFLD,N/A,[Tram]
+Gravel Hill Tram Stop,940GZZCRGRA,N/A,[Tram]
+Harrington Road,940GZZCRHAR,N/A,[Tram]
+King Henry's Drive,940GZZCRKGH,N/A,[Tram]
+Lebanon Road,940GZZCRLEB,N/A,[Tram]
+Lloyd Park Tram Stop,940GZZCRLOY,N/A,[Tram]
+Mitcham,940GZZCRMCH,N/A,[Tram]
+Morden Road,940GZZCRMDN,N/A,[Tram]
+Mitcham Junction Station,940GZZCRMJT,HUBMJT,[Tram]
+Merton Park,940GZZCRMTP,N/A,[Tram]
+New Addington,940GZZCRNWA,N/A,[Tram]
+Phipps Bridge,940GZZCRPHI,N/A,[Tram]
+Reeves Corner,940GZZCRRVC,N/A,[Tram]
+Sandilands Tram Stop,940GZZCRSAN,N/A,[Tram]
+Therapia Lane Tram Stop,940GZZCRTPA,N/A,[Tram]
+Waddon Marsh,940GZZCRWAD,N/A,[Tram]
+West Croydon,940GZZCRWCR,HUBWCY,"[London Overground, Tram]"
+Wellesley Road,940GZZCRWEL,N/A,[Tram]
+Woodside Tram Stop,940GZZCRWOD,N/A,[Tram]
+Wandle Park Tram Stop,940GZZCRWAN,N/A,[Tram]
+Wimbledon Tram Stop,940GZZCRWMB,HUBWIM,"[District, Tram]"
+Abbey Road DLR Station,940GZZDLABR,N/A,[DLR]
+All Saints DLR Station,940GZZDLALL,N/A,[DLR]
+Beckton DLR Station,940GZZDLBEC,N/A,[DLR]
+Blackwall DLR Station,940GZZDLBLA,N/A,[DLR]
+Bow Church DLR Station,940GZZDLBOW,N/A,[DLR]
+Beckton Park DLR Station,940GZZDLBPK,N/A,[DLR]
+Canary Wharf DLR Station,940GZZDLCAN,HUBCAW,"[DLR, Elizabeth line, Jubilee]"
+Crossharbour DLR Station,940GZZDLCLA,N/A,[DLR]
+Custom House for ExCeL DLR Station,940GZZDLCUS,HUBCUS,"[DLR, Elizabeth line]"
+Cutty Sark (for Maritime Greenwich) DLR Station,940GZZDLCUT,HUBCUT,[DLR]
+Cyprus DLR Station,940GZZDLCYP,N/A,[DLR]
+Deptford Bridge DLR Station,940GZZDLDEP,N/A,[DLR]
+Devons Road DLR Station,940GZZDLDEV,N/A,[DLR]
+East India DLR Station,940GZZDLEIN,N/A,[DLR]
+Elverson Road DLR Station,940GZZDLELV,N/A,[DLR]
+Gallions Reach DLR Station,940GZZDLGAL,N/A,[DLR]
+Greenwich Rail Station,940GZZDLGRE,HUBGNW,[DLR]
+Heron Quays DLR Station,940GZZDLHEQ,N/A,[DLR]
+Island Gardens DLR Station,940GZZDLISL,N/A,[DLR]
+King George V DLR Station,940GZZDLKGV,N/A,[DLR]
+London City Airport DLR Station,940GZZDLLCA,HUBLCY,[DLR]
+Langdon Park DLR Station,940GZZDLLDP,N/A,[DLR]
+Lewisham DLR Station,940GZZDLLEW,HUBLEW,[DLR]
+Limehouse DLR Station,940GZZDLLIM,HUBLHS,[DLR]
+Mudchute DLR Station,940GZZDLMUD,N/A,[DLR]
+Poplar DLR Station,940GZZDLPOP,N/A,[DLR]
+Prince Regent DLR Station,940GZZDLPRE,N/A,[DLR]
+Pudding Mill Lane DLR Station,940GZZDLPUD,N/A,[DLR]
+Royal Albert Dlr Station,940GZZDLRAL,N/A,[DLR]
+Royal Victoria DLR Station,940GZZDLRVC,HUBRVC,[DLR]
+Shadwell Station,940GZZDLSHA,HUBSDE,"[DLR, London Overground]"
+Stratford High Street DLR Station,940GZZDLSHS,N/A,[DLR]
+Stratford International DLR Station,940GZZDLSIT,N/A,[DLR]
+South Quay DLR Station,940GZZDLSOQ,N/A,[DLR]
+Star Lane DLR Station,940GZZDLSTL,N/A,[DLR]
+Tower Gateway DLR Station,940GZZDLTWG,HUBTOG,[DLR]
+Westferry DLR Station,940GZZDLWFE,N/A,[DLR]
+West India Quay DLR Station,940GZZDLWIQ,N/A,[DLR]
+Woolwich Arsenal DLR Station,940GZZDLWLA,HUBWWA,[DLR]
+West Silvertown Station,940GZZDLWSV,N/A,[DLR]
+Bank DLR Station,940GZZDLBNK,HUBBAN,"[Central, DLR, Northern, Waterloo & City]"
+Canning Town DLR Station,940GZZDLCGT,HUBCAN,"[DLR, Jubilee]"
+Pontoon Dock DLR Station,940GZZDLPDK,N/A,[DLR]
+Stratford DLR Station,940GZZDLSTD,HUBSRA,"[Central, DLR, Elizabeth line, Jubilee, London Overground]"
+West Ham DLR Station,940GZZDLWHM,HUBWEH,"[District, DLR, Hammersmith & City, Jubilee]"
