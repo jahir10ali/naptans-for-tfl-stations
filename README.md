@@ -1,1 +1,1 @@
-# NaPTAN ID's for all TfL Stations (no Bus Stations)
+# NaPTAN ID's and Lines Operating for all TfL Stations (no Bus Stations)
