@@ -1,4 +1,24 @@
 # NaPTAN ID's and Lines Operating for all TfL Stations (no Bus Stations)
+
+## Table of Contents
+
+- [What is a NaPTAN ID?](#what-is-a-naptan-id)
+- [Usage of NaPTAN IDs](#usage-of-naptan-ids)
+- [NaPTAN IDs for TfL](#naptan-ids-for-tfl)
+- [Applications for TfL Services](#applications-for-tfl-services)
+- [Example Usage of the TfL API](#example-usage-of-the-tfl-api)
+  - [Fetch Station Arrivals](#fetch-station-arrivals)
+  - [Plan Journeys Between Two Stations](#plan-journeys-between-two-stations)
+- [Data Files](#data-files)
+- [Python Scripts for NaPTAN Data Fetching](#python-scripts-for-naptan-data-fetching)
+  - [Purpose of the Python Scripts](#purpose-of-the-python-scripts)
+  - [Usage](#usage)
+  - [Optional Use](#optional-use)
+  - [How to Execute the Scripts](#how-to-execute-the-scripts)
+- [Contributing](#contributing)
+- [License](#license)
+
+
 This repository contains comprehensive data and resources related to NaPTAN (National Public Transport Access Node) IDs for Transport for London (TfL) stations. It provides information on what NaPTAN IDs are, their general usage, and specific applications for TfL services. Additionally, it includes scripts and datasets to help you fetch and use NaPTAN IDs for various purposes.
 
 ## What is a NaPTAN ID?
@@ -104,3 +124,19 @@ To execute these scripts:
 
    ```sh
    python TfL_Stations_naptans_&_lines.py
+
+## Contributing
+
+Contributions are encouraged to improve the NaPTAN ID repository! If you have ideas on how to enhance the usage of NaPTAN IDs or add new features, please consider contributing. Here’s how you can help:
+
+1. **Fork the Repository**: Click the "Fork" button at the top right of this page to create your own copy of the repository.
+
+2. **Create a Branch**: In your forked repository, create a new branch for your changes. For example, you might use a branch name like `feature/add-new-script`.
+
+3. **Make Changes**: Implement your changes or enhancements. Be sure to follow any coding standards or guidelines provided in this repository.
+
+4. **Submit a Pull Request**: Once you’ve tested your changes, submit a pull request to the original repository. Describe the changes you made and why they are beneficial.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
