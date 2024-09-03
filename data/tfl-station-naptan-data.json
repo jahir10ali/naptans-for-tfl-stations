@@ -1,0 +1,5707 @@
+[
+    {
+        "Station Name":"Abbey Road",
+        "NaPTAN ID":[
+            "940GZZDLABR"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "DLR"
+        ]
+    },
+    {
+        "Station Name":"Abbey Wood",
+        "NaPTAN ID":[
+            "910GABWDXR"
+        ],
+        "Hub NaPTAN":[
+            "HUBABW"
+        ],
+        "Lines":[
+            "Elizabeth line"
+        ]
+    },
+    {
+        "Station Name":"Acton Central",
+        "NaPTAN ID":[
+            "910GACTNCTL"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Acton Main Line",
+        "NaPTAN ID":[
+            "910GACTONML"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Elizabeth line"
+        ]
+    },
+    {
+        "Station Name":"Acton Town",
+        "NaPTAN ID":[
+            "940GZZLUACT"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "District",
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"Addington Village",
+        "NaPTAN ID":[
+            "940GZZCRADV"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Tram"
+        ]
+    },
+    {
+        "Station Name":"Addiscombe",
+        "NaPTAN ID":[
+            "940GZZCRADD"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Tram"
+        ]
+    },
+    {
+        "Station Name":"Aldgate",
+        "NaPTAN ID":[
+            "940GZZLUALD"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Circle",
+            "Metropolitan"
+        ]
+    },
+    {
+        "Station Name":"Aldgate East",
+        "NaPTAN ID":[
+            "940GZZLUADE"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "District",
+            "Hammersmith & City"
+        ]
+    },
+    {
+        "Station Name":"All Saints",
+        "NaPTAN ID":[
+            "940GZZDLALL"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "DLR"
+        ]
+    },
+    {
+        "Station Name":"Alperton",
+        "NaPTAN ID":[
+            "940GZZLUALP"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"Amersham",
+        "NaPTAN ID":[
+            "940GZZLUAMS"
+        ],
+        "Hub NaPTAN":[
+            "HUBAMR"
+        ],
+        "Lines":[
+            "Metropolitan"
+        ]
+    },
+    {
+        "Station Name":"Ampere Way",
+        "NaPTAN ID":[
+            "940GZZCRAMP"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Tram"
+        ]
+    },
+    {
+        "Station Name":"Anerley",
+        "NaPTAN ID":[
+            "910GANERLEY"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Angel",
+        "NaPTAN ID":[
+            "940GZZLUAGL"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Northern"
+        ]
+    },
+    {
+        "Station Name":"Archway",
+        "NaPTAN ID":[
+            "940GZZLUACY"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Northern"
+        ]
+    },
+    {
+        "Station Name":"Arena",
+        "NaPTAN ID":[
+            "940GZZCRARA"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Tram"
+        ]
+    },
+    {
+        "Station Name":"Arnos Grove",
+        "NaPTAN ID":[
+            "940GZZLUASG"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"Arsenal",
+        "NaPTAN ID":[
+            "940GZZLUASL"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"Avenue Road",
+        "NaPTAN ID":[
+            "940GZZCRAVE"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Tram"
+        ]
+    },
+    {
+        "Station Name":"Baker Street",
+        "NaPTAN ID":[
+            "940GZZLUBST"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Bakerloo",
+            "Circle",
+            "Hammersmith & City",
+            "Jubilee",
+            "Metropolitan"
+        ]
+    },
+    {
+        "Station Name":"Balham",
+        "NaPTAN ID":[
+            "940GZZLUBLM"
+        ],
+        "Hub NaPTAN":[
+            "HUBBAL"
+        ],
+        "Lines":[
+            "Northern"
+        ]
+    },
+    {
+        "Station Name":"Bank",
+        "NaPTAN ID":[
+            "940GZZLUBNK",
+            "940GZZDLBNK"
+        ],
+        "Hub NaPTAN":[
+            "HUBBAN"
+        ],
+        "Lines":[
+            "Central",
+            "DLR",
+            "Northern",
+            "Waterloo & City"
+        ]
+    },
+    {
+        "Station Name":"Barbican",
+        "NaPTAN ID":[
+            "940GZZLUBBN"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Circle",
+            "Hammersmith & City",
+            "Metropolitan"
+        ]
+    },
+    {
+        "Station Name":"Barking",
+        "NaPTAN ID":[
+            "940GZZLUBKG",
+            "910GBARKING"
+        ],
+        "Hub NaPTAN":[
+            "HUBBKG"
+        ],
+        "Lines":[
+            "District",
+            "Hammersmith & City",
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Barking Riverside",
+        "NaPTAN ID":[
+            "910GBKRVS"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Barkingside",
+        "NaPTAN ID":[
+            "940GZZLUBKE"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Central"
+        ]
+    },
+    {
+        "Station Name":"Barons Court",
+        "NaPTAN ID":[
+            "940GZZLUBSC"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "District",
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"Battersea Power",
+        "NaPTAN ID":[
+            "940GZZBPSUST"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Northern"
+        ]
+    },
+    {
+        "Station Name":"Bayswater",
+        "NaPTAN ID":[
+            "940GZZLUBWT"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Circle",
+            "District"
+        ]
+    },
+    {
+        "Station Name":"Beckenham Junction",
+        "NaPTAN ID":[
+            "940GZZCRBEK"
+        ],
+        "Hub NaPTAN":[
+            "HUBBEK"
+        ],
+        "Lines":[
+            "Tram"
+        ]
+    },
+    {
+        "Station Name":"Beckenham Road",
+        "NaPTAN ID":[
+            "940GZZCRBRD"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Tram"
+        ]
+    },
+    {
+        "Station Name":"Beckton",
+        "NaPTAN ID":[
+            "940GZZDLBEC"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "DLR"
+        ]
+    },
+    {
+        "Station Name":"Beckton Park",
+        "NaPTAN ID":[
+            "940GZZDLBPK"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "DLR"
+        ]
+    },
+    {
+        "Station Name":"Becontree",
+        "NaPTAN ID":[
+            "940GZZLUBEC"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "District"
+        ]
+    },
+    {
+        "Station Name":"Beddington Lane",
+        "NaPTAN ID":[
+            "940GZZCRBED"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Tram"
+        ]
+    },
+    {
+        "Station Name":"Belgrave Walk",
+        "NaPTAN ID":[
+            "940GZZCRBGV"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Tram"
+        ]
+    },
+    {
+        "Station Name":"Belsize Park",
+        "NaPTAN ID":[
+            "940GZZLUBZP"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Northern"
+        ]
+    },
+    {
+        "Station Name":"Bermondsey",
+        "NaPTAN ID":[
+            "940GZZLUBMY"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Jubilee"
+        ]
+    },
+    {
+        "Station Name":"Bethnal Green",
+        "NaPTAN ID":[
+            "940GZZLUBLG",
+            "910GBTHNLGR"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Central",
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Birkbeck",
+        "NaPTAN ID":[
+            "940GZZCRBIR"
+        ],
+        "Hub NaPTAN":[
+            "HUBBIR"
+        ],
+        "Lines":[
+            "Tram"
+        ]
+    },
+    {
+        "Station Name":"Blackfriars",
+        "NaPTAN ID":[
+            "940GZZLUBKF"
+        ],
+        "Hub NaPTAN":[
+            "HUBBFR"
+        ],
+        "Lines":[
+            "Circle",
+            "District"
+        ]
+    },
+    {
+        "Station Name":"Blackhorse Lane",
+        "NaPTAN ID":[
+            "940GZZCRBLA"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Tram"
+        ]
+    },
+    {
+        "Station Name":"Blackhorse Road",
+        "NaPTAN ID":[
+            "940GZZLUBLR",
+            "910GBLCHSRD"
+        ],
+        "Hub NaPTAN":[
+            "HUBBHO"
+        ],
+        "Lines":[
+            "London Overground",
+            "Victoria"
+        ]
+    },
+    {
+        "Station Name":"Blackwall",
+        "NaPTAN ID":[
+            "940GZZDLBLA"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "DLR"
+        ]
+    },
+    {
+        "Station Name":"Bond Street",
+        "NaPTAN ID":[
+            "940GZZLUBND",
+            "910GBONDST"
+        ],
+        "Hub NaPTAN":[
+            "HUBBDS"
+        ],
+        "Lines":[
+            "Central",
+            "Elizabeth line",
+            "Jubilee"
+        ]
+    },
+    {
+        "Station Name":"Borough",
+        "NaPTAN ID":[
+            "940GZZLUBOR"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Northern"
+        ]
+    },
+    {
+        "Station Name":"Boston Manor",
+        "NaPTAN ID":[
+            "940GZZLUBOS"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"Bounds Green",
+        "NaPTAN ID":[
+            "940GZZLUBDS"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"Bow Church",
+        "NaPTAN ID":[
+            "940GZZDLBOW"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "DLR"
+        ]
+    },
+    {
+        "Station Name":"Bow Road",
+        "NaPTAN ID":[
+            "940GZZLUBWR"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "District",
+            "Hammersmith & City"
+        ]
+    },
+    {
+        "Station Name":"Brent Cross",
+        "NaPTAN ID":[
+            "940GZZLUBTX"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Northern"
+        ]
+    },
+    {
+        "Station Name":"Brentwood",
+        "NaPTAN ID":[
+            "910GBRTWOOD"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Elizabeth line"
+        ]
+    },
+    {
+        "Station Name":"Brixton",
+        "NaPTAN ID":[
+            "940GZZLUBXN"
+        ],
+        "Hub NaPTAN":[
+            "HUBBRX"
+        ],
+        "Lines":[
+            "Victoria"
+        ]
+    },
+    {
+        "Station Name":"Brockley",
+        "NaPTAN ID":[
+            "910GBROCKLY"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Bromley-By-Bow",
+        "NaPTAN ID":[
+            "940GZZLUBBB"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "District",
+            "Hammersmith & City"
+        ]
+    },
+    {
+        "Station Name":"Brondesbury",
+        "NaPTAN ID":[
+            "910GBRBY"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Brondesbury Park",
+        "NaPTAN ID":[
+            "910GBRBYPK"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Bruce Grove",
+        "NaPTAN ID":[
+            "910GBRUCGRV"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Buckhurst Hill",
+        "NaPTAN ID":[
+            "940GZZLUBKH"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Central"
+        ]
+    },
+    {
+        "Station Name":"Burnham (Berks)",
+        "NaPTAN ID":[
+            "910GBNHAM"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Elizabeth line"
+        ]
+    },
+    {
+        "Station Name":"Burnt Oak",
+        "NaPTAN ID":[
+            "940GZZLUBTK"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Northern"
+        ]
+    },
+    {
+        "Station Name":"Bush Hill Park",
+        "NaPTAN ID":[
+            "910GBHILLPK"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Bushey",
+        "NaPTAN ID":[
+            "910GBUSHEY",
+            "910GBUSHYDC"
+        ],
+        "Hub NaPTAN":[
+            "HUBBSH"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Caledonian Road",
+        "NaPTAN ID":[
+            "940GZZLUCAR"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"Caledonian Road & Barnsbury",
+        "NaPTAN ID":[
+            "910GCLDNNRB"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Cambridge Heath (London)",
+        "NaPTAN ID":[
+            "910GCAMHTH"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Camden Road",
+        "NaPTAN ID":[
+            "910GCMDNRD"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Camden Town",
+        "NaPTAN ID":[
+            "940GZZLUCTN"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Northern"
+        ]
+    },
+    {
+        "Station Name":"Canada Water",
+        "NaPTAN ID":[
+            "940GZZLUCWR",
+            "910GCNDAW"
+        ],
+        "Hub NaPTAN":[
+            "HUBZCW"
+        ],
+        "Lines":[
+            "Jubilee",
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Canary Wharf",
+        "NaPTAN ID":[
+            "940GZZLUCYF",
+            "910GCANWHRF",
+            "940GZZDLCAN"
+        ],
+        "Hub NaPTAN":[
+            "HUBCAW"
+        ],
+        "Lines":[
+            "DLR",
+            "Elizabeth line",
+            "Jubilee"
+        ]
+    },
+    {
+        "Station Name":"Canning Town",
+        "NaPTAN ID":[
+            "940GZZLUCGT",
+            "940GZZDLCGT"
+        ],
+        "Hub NaPTAN":[
+            "HUBCAN"
+        ],
+        "Lines":[
+            "DLR",
+            "Jubilee"
+        ]
+    },
+    {
+        "Station Name":"Cannon Street",
+        "NaPTAN ID":[
+            "940GZZLUCST"
+        ],
+        "Hub NaPTAN":[
+            "HUBCST"
+        ],
+        "Lines":[
+            "Circle",
+            "District"
+        ]
+    },
+    {
+        "Station Name":"Canonbury",
+        "NaPTAN ID":[
+            "910GCNNB"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Canons Park",
+        "NaPTAN ID":[
+            "940GZZLUCPK"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Jubilee"
+        ]
+    },
+    {
+        "Station Name":"Carpenders Park",
+        "NaPTAN ID":[
+            "910GCRPNDPK"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Chadwell Heath",
+        "NaPTAN ID":[
+            "910GCHDWLHT"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Elizabeth line"
+        ]
+    },
+    {
+        "Station Name":"Chalfont & Latimer",
+        "NaPTAN ID":[
+            "940GZZLUCAL"
+        ],
+        "Hub NaPTAN":[
+            "HUBCFO"
+        ],
+        "Lines":[
+            "Metropolitan"
+        ]
+    },
+    {
+        "Station Name":"Chalk Farm",
+        "NaPTAN ID":[
+            "940GZZLUCFM"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Northern"
+        ]
+    },
+    {
+        "Station Name":"Chancery Lane",
+        "NaPTAN ID":[
+            "940GZZLUCHL"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Central"
+        ]
+    },
+    {
+        "Station Name":"Charing Cross",
+        "NaPTAN ID":[
+            "940GZZLUCHX"
+        ],
+        "Hub NaPTAN":[
+            "HUBCHX"
+        ],
+        "Lines":[
+            "Bakerloo",
+            "Northern"
+        ]
+    },
+    {
+        "Station Name":"Chesham",
+        "NaPTAN ID":[
+            "940GZZLUCSM"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Metropolitan"
+        ]
+    },
+    {
+        "Station Name":"Cheshunt",
+        "NaPTAN ID":[
+            "910GCHESHNT"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Chigwell",
+        "NaPTAN ID":[
+            "940GZZLUCWL"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Central"
+        ]
+    },
+    {
+        "Station Name":"Chingford",
+        "NaPTAN ID":[
+            "910GCHINGFD"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Chiswick Park",
+        "NaPTAN ID":[
+            "940GZZLUCWP"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "District"
+        ]
+    },
+    {
+        "Station Name":"Chorleywood",
+        "NaPTAN ID":[
+            "940GZZLUCYD"
+        ],
+        "Hub NaPTAN":[
+            "HUBCLW"
+        ],
+        "Lines":[
+            "Metropolitan"
+        ]
+    },
+    {
+        "Station Name":"Church Street",
+        "NaPTAN ID":[
+            "940GZZCRCHR"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Tram"
+        ]
+    },
+    {
+        "Station Name":"Clapham Common",
+        "NaPTAN ID":[
+            "940GZZLUCPC"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Northern"
+        ]
+    },
+    {
+        "Station Name":"Clapham High Street",
+        "NaPTAN ID":[
+            "910GCLPHHS"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Clapham Junction",
+        "NaPTAN ID":[
+            "910GCLPHMJC",
+            "910GCLPHMJ1"
+        ],
+        "Hub NaPTAN":[
+            "HUBCLJ"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Clapham North",
+        "NaPTAN ID":[
+            "940GZZLUCPN"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Northern"
+        ]
+    },
+    {
+        "Station Name":"Clapham South",
+        "NaPTAN ID":[
+            "940GZZLUCPS"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Northern"
+        ]
+    },
+    {
+        "Station Name":"Clapton",
+        "NaPTAN ID":[
+            "910GCLAPTON"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Cockfosters",
+        "NaPTAN ID":[
+            "940GZZLUCKS"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"Colindale",
+        "NaPTAN ID":[
+            "940GZZLUCND"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Northern"
+        ]
+    },
+    {
+        "Station Name":"Colliers Wood",
+        "NaPTAN ID":[
+            "940GZZLUCSD"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Northern"
+        ]
+    },
+    {
+        "Station Name":"Coombe Lane",
+        "NaPTAN ID":[
+            "940GZZCRCOO"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Tram"
+        ]
+    },
+    {
+        "Station Name":"Covent Garden",
+        "NaPTAN ID":[
+            "940GZZLUCGN"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"Crossharbour",
+        "NaPTAN ID":[
+            "940GZZDLCLA"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "DLR"
+        ]
+    },
+    {
+        "Station Name":"Crouch Hill",
+        "NaPTAN ID":[
+            "910GCROUCHH"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Croxley",
+        "NaPTAN ID":[
+            "940GZZLUCXY"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Metropolitan"
+        ]
+    },
+    {
+        "Station Name":"Crystal Palace",
+        "NaPTAN ID":[
+            "910GCRYSTLP"
+        ],
+        "Hub NaPTAN":[
+            "HUBCYP"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Custom House",
+        "NaPTAN ID":[
+            "910GCSTMHSXR"
+        ],
+        "Hub NaPTAN":[
+            "HUBCUS"
+        ],
+        "Lines":[
+            "DLR",
+            "Elizabeth line"
+        ]
+    },
+    {
+        "Station Name":"Custom House for ExCeL",
+        "NaPTAN ID":[
+            "940GZZDLCUS"
+        ],
+        "Hub NaPTAN":[
+            "HUBCUS"
+        ],
+        "Lines":[
+            "DLR",
+            "Elizabeth line"
+        ]
+    },
+    {
+        "Station Name":"Cutty Sark (for Maritime Greenwich)",
+        "NaPTAN ID":[
+            "940GZZDLCUT"
+        ],
+        "Hub NaPTAN":[
+            "HUBCUT"
+        ],
+        "Lines":[
+            "DLR"
+        ]
+    },
+    {
+        "Station Name":"Cyprus",
+        "NaPTAN ID":[
+            "940GZZDLCYP"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "DLR"
+        ]
+    },
+    {
+        "Station Name":"Dagenham East",
+        "NaPTAN ID":[
+            "940GZZLUDGE"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "District"
+        ]
+    },
+    {
+        "Station Name":"Dagenham Heathway",
+        "NaPTAN ID":[
+            "940GZZLUDGY"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "District"
+        ]
+    },
+    {
+        "Station Name":"Dalston Junction",
+        "NaPTAN ID":[
+            "910GDALS"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Dalston Kingsland",
+        "NaPTAN ID":[
+            "910GDALSKLD"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Debden",
+        "NaPTAN ID":[
+            "940GZZLUDBN"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Central"
+        ]
+    },
+    {
+        "Station Name":"Denmark Hill",
+        "NaPTAN ID":[
+            "910GDENMRKH"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Deptford Bridge",
+        "NaPTAN ID":[
+            "940GZZDLDEP"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "DLR"
+        ]
+    },
+    {
+        "Station Name":"Devons Road",
+        "NaPTAN ID":[
+            "940GZZDLDEV"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "DLR"
+        ]
+    },
+    {
+        "Station Name":"Dollis Hill",
+        "NaPTAN ID":[
+            "940GZZLUDOH"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Jubilee"
+        ]
+    },
+    {
+        "Station Name":"Dundonald Road",
+        "NaPTAN ID":[
+            "940GZZCRDDR"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Tram"
+        ]
+    },
+    {
+        "Station Name":"Ealing Broadway",
+        "NaPTAN ID":[
+            "940GZZLUEBY",
+            "910GEALINGB"
+        ],
+        "Hub NaPTAN":[
+            "HUBEAL"
+        ],
+        "Lines":[
+            "Central",
+            "District",
+            "Elizabeth line"
+        ]
+    },
+    {
+        "Station Name":"Ealing Common",
+        "NaPTAN ID":[
+            "940GZZLUECM"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "District",
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"Earl's Court",
+        "NaPTAN ID":[
+            "940GZZLUECT"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "District",
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"East Acton",
+        "NaPTAN ID":[
+            "940GZZLUEAN"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Central"
+        ]
+    },
+    {
+        "Station Name":"East Croydon",
+        "NaPTAN ID":[
+            "940GZZCRECR"
+        ],
+        "Hub NaPTAN":[
+            "HUBECY"
+        ],
+        "Lines":[
+            "Tram"
+        ]
+    },
+    {
+        "Station Name":"East Finchley",
+        "NaPTAN ID":[
+            "940GZZLUEFY"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Northern"
+        ]
+    },
+    {
+        "Station Name":"East Ham",
+        "NaPTAN ID":[
+            "940GZZLUEHM"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "District",
+            "Hammersmith & City"
+        ]
+    },
+    {
+        "Station Name":"East India",
+        "NaPTAN ID":[
+            "940GZZDLEIN"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "DLR"
+        ]
+    },
+    {
+        "Station Name":"East Putney",
+        "NaPTAN ID":[
+            "940GZZLUEPY"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "District"
+        ]
+    },
+    {
+        "Station Name":"Eastcote",
+        "NaPTAN ID":[
+            "940GZZLUEAE"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Metropolitan",
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"Edgware",
+        "NaPTAN ID":[
+            "940GZZLUEGW"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Northern"
+        ]
+    },
+    {
+        "Station Name":"Edgware Road",
+        "NaPTAN ID":[
+            "940GZZLUERB",
+            "940GZZLUERC"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Bakerloo",
+            "Circle",
+            "District",
+            "Hammersmith & City"
+        ]
+    },
+    {
+        "Station Name":"Edmonton Green",
+        "NaPTAN ID":[
+            "910GEDMNGRN"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Elephant & Castle",
+        "NaPTAN ID":[
+            "940GZZLUEAC"
+        ],
+        "Hub NaPTAN":[
+            "HUBEPH"
+        ],
+        "Lines":[
+            "Bakerloo",
+            "Northern"
+        ]
+    },
+    {
+        "Station Name":"Elm Park",
+        "NaPTAN ID":[
+            "940GZZLUEPK"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "District"
+        ]
+    },
+    {
+        "Station Name":"Elmers End",
+        "NaPTAN ID":[
+            "940GZZCRELM"
+        ],
+        "Hub NaPTAN":[
+            "HUBELM"
+        ],
+        "Lines":[
+            "Tram"
+        ]
+    },
+    {
+        "Station Name":"Elverson Road",
+        "NaPTAN ID":[
+            "940GZZDLELV"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "DLR"
+        ]
+    },
+    {
+        "Station Name":"Embankment",
+        "NaPTAN ID":[
+            "940GZZLUEMB"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Bakerloo",
+            "Circle",
+            "District",
+            "Northern"
+        ]
+    },
+    {
+        "Station Name":"Emerson Park",
+        "NaPTAN ID":[
+            "910GEMRSPKH"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Enfield Town",
+        "NaPTAN ID":[
+            "910GENFLDTN"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Epping",
+        "NaPTAN ID":[
+            "940GZZLUEPG"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Central"
+        ]
+    },
+    {
+        "Station Name":"Euston",
+        "NaPTAN ID":[
+            "940GZZLUEUS"
+        ],
+        "Hub NaPTAN":[
+            "HUBEUS"
+        ],
+        "Lines":[
+            "London Overground",
+            "Northern",
+            "Victoria"
+        ]
+    },
+    {
+        "Station Name":"Euston Square",
+        "NaPTAN ID":[
+            "940GZZLUESQ"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Circle",
+            "Hammersmith & City",
+            "Metropolitan"
+        ]
+    },
+    {
+        "Station Name":"Fairlop",
+        "NaPTAN ID":[
+            "940GZZLUFLP"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Central"
+        ]
+    },
+    {
+        "Station Name":"Farringdon",
+        "NaPTAN ID":[
+            "940GZZLUFCN",
+            "910GFRNDXR"
+        ],
+        "Hub NaPTAN":[
+            "HUBZFD"
+        ],
+        "Lines":[
+            "Circle",
+            "Elizabeth line",
+            "Hammersmith & City",
+            "Metropolitan"
+        ]
+    },
+    {
+        "Station Name":"Fieldway",
+        "NaPTAN ID":[
+            "940GZZCRFLD"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Tram"
+        ]
+    },
+    {
+        "Station Name":"Finchley Central",
+        "NaPTAN ID":[
+            "940GZZLUFYC"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Northern"
+        ]
+    },
+    {
+        "Station Name":"Finchley Road",
+        "NaPTAN ID":[
+            "940GZZLUFYR"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Jubilee",
+            "Metropolitan"
+        ]
+    },
+    {
+        "Station Name":"Finchley Road & Frognal",
+        "NaPTAN ID":[
+            "910GFNCHLYR"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Finsbury Park",
+        "NaPTAN ID":[
+            "940GZZLUFPK"
+        ],
+        "Hub NaPTAN":[
+            "HUBFPK"
+        ],
+        "Lines":[
+            "Piccadilly",
+            "Victoria"
+        ]
+    },
+    {
+        "Station Name":"Forest Gate",
+        "NaPTAN ID":[
+            "910GFRSTGT"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Elizabeth line"
+        ]
+    },
+    {
+        "Station Name":"Forest Hill",
+        "NaPTAN ID":[
+            "910GFORESTH"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Fulham Broadway",
+        "NaPTAN ID":[
+            "940GZZLUFBY"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "District"
+        ]
+    },
+    {
+        "Station Name":"Gallions Reach",
+        "NaPTAN ID":[
+            "940GZZDLGAL"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "DLR"
+        ]
+    },
+    {
+        "Station Name":"Gants Hill",
+        "NaPTAN ID":[
+            "940GZZLUGTH"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Central"
+        ]
+    },
+    {
+        "Station Name":"George Street",
+        "NaPTAN ID":[
+            "940GZZCRCEN"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Tram"
+        ]
+    },
+    {
+        "Station Name":"Gidea Park",
+        "NaPTAN ID":[
+            "910GGIDEAPK"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Elizabeth line"
+        ]
+    },
+    {
+        "Station Name":"Gloucester Road",
+        "NaPTAN ID":[
+            "940GZZLUGTR"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Circle",
+            "District",
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"Golders Green",
+        "NaPTAN ID":[
+            "940GZZLUGGN"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Northern"
+        ]
+    },
+    {
+        "Station Name":"Goldhawk Road",
+        "NaPTAN ID":[
+            "940GZZLUGHK"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Circle",
+            "Hammersmith & City"
+        ]
+    },
+    {
+        "Station Name":"Goodge Street",
+        "NaPTAN ID":[
+            "940GZZLUGDG"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Northern"
+        ]
+    },
+    {
+        "Station Name":"Goodmayes",
+        "NaPTAN ID":[
+            "910GGODMAYS"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Elizabeth line"
+        ]
+    },
+    {
+        "Station Name":"Gospel Oak",
+        "NaPTAN ID":[
+            "910GGOSPLOK"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Grange Hill",
+        "NaPTAN ID":[
+            "940GZZLUGGH"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Central"
+        ]
+    },
+    {
+        "Station Name":"Gravel Hill",
+        "NaPTAN ID":[
+            "940GZZCRGRA"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Tram"
+        ]
+    },
+    {
+        "Station Name":"Great Portland Street",
+        "NaPTAN ID":[
+            "940GZZLUGPS"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Circle",
+            "Hammersmith & City",
+            "Metropolitan"
+        ]
+    },
+    {
+        "Station Name":"Green Park",
+        "NaPTAN ID":[
+            "940GZZLUGPK"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Jubilee",
+            "Piccadilly",
+            "Victoria"
+        ]
+    },
+    {
+        "Station Name":"Greenford",
+        "NaPTAN ID":[
+            "940GZZLUGFD"
+        ],
+        "Hub NaPTAN":[
+            "HUBGFD"
+        ],
+        "Lines":[
+            "Central"
+        ]
+    },
+    {
+        "Station Name":"Greenwich",
+        "NaPTAN ID":[
+            "940GZZDLGRE"
+        ],
+        "Hub NaPTAN":[
+            "HUBGNW"
+        ],
+        "Lines":[
+            "DLR"
+        ]
+    },
+    {
+        "Station Name":"Gunnersbury",
+        "NaPTAN ID":[
+            "940GZZLUGBY",
+            "910GGNRSBRY"
+        ],
+        "Hub NaPTAN":[
+            "HUBGUN"
+        ],
+        "Lines":[
+            "District",
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Hackney Central",
+        "NaPTAN ID":[
+            "910GHACKNYC"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Hackney Downs",
+        "NaPTAN ID":[
+            "910GHAKNYNM"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Hackney Wick",
+        "NaPTAN ID":[
+            "910GHACKNYW"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Haggerston",
+        "NaPTAN ID":[
+            "910GHAGGERS"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Hainault",
+        "NaPTAN ID":[
+            "940GZZLUHLT"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Central"
+        ]
+    },
+    {
+        "Station Name":"Hammersmith",
+        "NaPTAN ID":[
+            "940GZZLUHSC",
+            "940GZZLUHSD"
+        ],
+        "Hub NaPTAN":[
+            "HUBHMS"
+        ],
+        "Lines":[
+            "Circle",
+            "District",
+            "Hammersmith & City",
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"Hampstead",
+        "NaPTAN ID":[
+            "940GZZLUHTD"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Northern"
+        ]
+    },
+    {
+        "Station Name":"Hampstead Heath",
+        "NaPTAN ID":[
+            "910GHMPSTDH"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Hanger Lane",
+        "NaPTAN ID":[
+            "940GZZLUHGR"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Central"
+        ]
+    },
+    {
+        "Station Name":"Hanwell",
+        "NaPTAN ID":[
+            "910GHANWELL"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Elizabeth line"
+        ]
+    },
+    {
+        "Station Name":"Harlesden",
+        "NaPTAN ID":[
+            "940GZZLUHSN",
+            "910GHARLSDN"
+        ],
+        "Hub NaPTAN":[
+            "HUBHDN"
+        ],
+        "Lines":[
+            "Bakerloo",
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Harold Wood",
+        "NaPTAN ID":[
+            "910GHRLDWOD"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Elizabeth line"
+        ]
+    },
+    {
+        "Station Name":"Harringay Green Lanes",
+        "NaPTAN ID":[
+            "910GHRGYGL"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Harrington Road",
+        "NaPTAN ID":[
+            "940GZZCRHAR"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Tram"
+        ]
+    },
+    {
+        "Station Name":"Harrow & Wealdstone",
+        "NaPTAN ID":[
+            "940GZZLUHAW",
+            "910GHROW"
+        ],
+        "Hub NaPTAN":[
+            "HUBHRW"
+        ],
+        "Lines":[
+            "Bakerloo",
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Harrow-on-the-Hill",
+        "NaPTAN ID":[
+            "940GZZLUHOH"
+        ],
+        "Hub NaPTAN":[
+            "HUBHOH"
+        ],
+        "Lines":[
+            "Metropolitan"
+        ]
+    },
+    {
+        "Station Name":"Hatch End",
+        "NaPTAN ID":[
+            "910GHTCHEND"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Hatton Cross",
+        "NaPTAN ID":[
+            "940GZZLUHNX"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"Hayes & Harlington",
+        "NaPTAN ID":[
+            "910GHAYESAH"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Elizabeth line"
+        ]
+    },
+    {
+        "Station Name":"Headstone Lane",
+        "NaPTAN ID":[
+            "910GHEDSTNL"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Heathrow Terminal 4",
+        "NaPTAN ID":[
+            "940GZZLUHR4",
+            "910GHTRWTM4"
+        ],
+        "Hub NaPTAN":[
+            "HUBHX4"
+        ],
+        "Lines":[
+            "Elizabeth line",
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"Heathrow Terminal 5",
+        "NaPTAN ID":[
+            "940GZZLUHR5",
+            "910GHTRWTM5"
+        ],
+        "Hub NaPTAN":[
+            "HUBHX5"
+        ],
+        "Lines":[
+            "Elizabeth line",
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"Heathrow Terminals 2 & 3",
+        "NaPTAN ID":[
+            "940GZZLUHRC",
+            "910GHTRWAPT"
+        ],
+        "Hub NaPTAN":[
+            "HUBH13"
+        ],
+        "Lines":[
+            "Elizabeth line",
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"Hendon Central",
+        "NaPTAN ID":[
+            "940GZZLUHCL"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Northern"
+        ]
+    },
+    {
+        "Station Name":"Heron Quays",
+        "NaPTAN ID":[
+            "940GZZDLHEQ"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "DLR"
+        ]
+    },
+    {
+        "Station Name":"High Barnet",
+        "NaPTAN ID":[
+            "940GZZLUHBT"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Northern"
+        ]
+    },
+    {
+        "Station Name":"High Street Kensington",
+        "NaPTAN ID":[
+            "940GZZLUHSK"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Circle",
+            "District"
+        ]
+    },
+    {
+        "Station Name":"Highams Park",
+        "NaPTAN ID":[
+            "910GHGHMSPK"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Highbury & Islington",
+        "NaPTAN ID":[
+            "940GZZLUHAI",
+            "910GHGHI"
+        ],
+        "Hub NaPTAN":[
+            "HUBHHY"
+        ],
+        "Lines":[
+            "London Overground",
+            "Victoria"
+        ]
+    },
+    {
+        "Station Name":"Highgate",
+        "NaPTAN ID":[
+            "940GZZLUHGT"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Northern"
+        ]
+    },
+    {
+        "Station Name":"Hillingdon",
+        "NaPTAN ID":[
+            "940GZZLUHGD"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Metropolitan",
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"Holborn",
+        "NaPTAN ID":[
+            "940GZZLUHBN"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Central",
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"Holland Park",
+        "NaPTAN ID":[
+            "940GZZLUHPK"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Central"
+        ]
+    },
+    {
+        "Station Name":"Holloway Road",
+        "NaPTAN ID":[
+            "940GZZLUHWY"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"Homerton",
+        "NaPTAN ID":[
+            "910GHOMRTON"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Honor Oak Park",
+        "NaPTAN ID":[
+            "910GHONROPK"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Hornchurch",
+        "NaPTAN ID":[
+            "940GZZLUHCH"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "District"
+        ]
+    },
+    {
+        "Station Name":"Hounslow Central",
+        "NaPTAN ID":[
+            "940GZZLUHWC"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"Hounslow East",
+        "NaPTAN ID":[
+            "940GZZLUHWE"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"Hounslow West",
+        "NaPTAN ID":[
+            "940GZZLUHWT"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"Hoxton",
+        "NaPTAN ID":[
+            "910GHOXTON"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Hyde Park Corner",
+        "NaPTAN ID":[
+            "940GZZLUHPC"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"Ickenham",
+        "NaPTAN ID":[
+            "940GZZLUICK"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Metropolitan",
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"Ilford",
+        "NaPTAN ID":[
+            "910GILFORD"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Elizabeth line"
+        ]
+    },
+    {
+        "Station Name":"Imperial Wharf",
+        "NaPTAN ID":[
+            "910GCSEAH"
+        ],
+        "Hub NaPTAN":[
+            "HUBIMP"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Island Gardens",
+        "NaPTAN ID":[
+            "940GZZDLISL"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "DLR"
+        ]
+    },
+    {
+        "Station Name":"Iver",
+        "NaPTAN ID":[
+            "910GIVER"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Elizabeth line"
+        ]
+    },
+    {
+        "Station Name":"Kennington",
+        "NaPTAN ID":[
+            "940GZZLUKNG"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Northern"
+        ]
+    },
+    {
+        "Station Name":"Kensal Green",
+        "NaPTAN ID":[
+            "940GZZLUKSL",
+            "910GKENSLG"
+        ],
+        "Hub NaPTAN":[
+            "HUBKNL"
+        ],
+        "Lines":[
+            "Bakerloo",
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Kensal Rise",
+        "NaPTAN ID":[
+            "910GKENR"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Kensington (Olympia)",
+        "NaPTAN ID":[
+            "940GZZLUKOY",
+            "910GKENOLYM"
+        ],
+        "Hub NaPTAN":[
+            "HUBKPA"
+        ],
+        "Lines":[
+            "District",
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Kentish Town",
+        "NaPTAN ID":[
+            "940GZZLUKSH"
+        ],
+        "Hub NaPTAN":[
+            "HUBKTN"
+        ],
+        "Lines":[
+            "Northern"
+        ]
+    },
+    {
+        "Station Name":"Kentish Town West",
+        "NaPTAN ID":[
+            "910GKNTSHTW"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Kenton",
+        "NaPTAN ID":[
+            "940GZZLUKEN",
+            "910GKTON"
+        ],
+        "Hub NaPTAN":[
+            "HUBKNT"
+        ],
+        "Lines":[
+            "Bakerloo",
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Kew Gardens",
+        "NaPTAN ID":[
+            "940GZZLUKWG",
+            "910GKEWGRDN"
+        ],
+        "Hub NaPTAN":[
+            "HUBKWG"
+        ],
+        "Lines":[
+            "District",
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Kilburn",
+        "NaPTAN ID":[
+            "940GZZLUKBN"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Jubilee"
+        ]
+    },
+    {
+        "Station Name":"Kilburn High Road",
+        "NaPTAN ID":[
+            "910GKLBRNHR"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Kilburn Park",
+        "NaPTAN ID":[
+            "940GZZLUKPK"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Bakerloo"
+        ]
+    },
+    {
+        "Station Name":"King George V",
+        "NaPTAN ID":[
+            "940GZZDLKGV"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "DLR"
+        ]
+    },
+    {
+        "Station Name":"King Henry's Drive",
+        "NaPTAN ID":[
+            "940GZZCRKGH"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Tram"
+        ]
+    },
+    {
+        "Station Name":"King's Cross St.Pancras",
+        "NaPTAN ID":[
+            "940GZZLUKSX"
+        ],
+        "Hub NaPTAN":[
+            "HUBKGX"
+        ],
+        "Lines":[
+            "Circle",
+            "Hammersmith & City",
+            "Metropolitan",
+            "Northern",
+            "Piccadilly",
+            "Victoria"
+        ]
+    },
+    {
+        "Station Name":"Kingsbury",
+        "NaPTAN ID":[
+            "940GZZLUKBY"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Jubilee"
+        ]
+    },
+    {
+        "Station Name":"Knightsbridge",
+        "NaPTAN ID":[
+            "940GZZLUKNB"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"Ladbroke Grove",
+        "NaPTAN ID":[
+            "940GZZLULAD"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Circle",
+            "Hammersmith & City"
+        ]
+    },
+    {
+        "Station Name":"Lambeth North",
+        "NaPTAN ID":[
+            "940GZZLULBN"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Bakerloo"
+        ]
+    },
+    {
+        "Station Name":"Lancaster Gate",
+        "NaPTAN ID":[
+            "940GZZLULGT"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Central"
+        ]
+    },
+    {
+        "Station Name":"Langdon Park",
+        "NaPTAN ID":[
+            "940GZZDLLDP"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "DLR"
+        ]
+    },
+    {
+        "Station Name":"Langley (Berks)",
+        "NaPTAN ID":[
+            "910GLANGLEY"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Elizabeth line"
+        ]
+    },
+    {
+        "Station Name":"Latimer Road",
+        "NaPTAN ID":[
+            "940GZZLULRD"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Circle",
+            "Hammersmith & City"
+        ]
+    },
+    {
+        "Station Name":"Lebanon Road",
+        "NaPTAN ID":[
+            "940GZZCRLEB"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Tram"
+        ]
+    },
+    {
+        "Station Name":"Leicester Square",
+        "NaPTAN ID":[
+            "940GZZLULSQ"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Northern",
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"Lewisham",
+        "NaPTAN ID":[
+            "940GZZDLLEW"
+        ],
+        "Hub NaPTAN":[
+            "HUBLEW"
+        ],
+        "Lines":[
+            "DLR"
+        ]
+    },
+    {
+        "Station Name":"Leyton",
+        "NaPTAN ID":[
+            "940GZZLULYN"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Central"
+        ]
+    },
+    {
+        "Station Name":"Leyton Midland Road",
+        "NaPTAN ID":[
+            "910GLEYTNMR"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Leytonstone",
+        "NaPTAN ID":[
+            "940GZZLULYS"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Central"
+        ]
+    },
+    {
+        "Station Name":"Leytonstone High Road",
+        "NaPTAN ID":[
+            "910GLYTNSHR"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Limehouse",
+        "NaPTAN ID":[
+            "940GZZDLLIM"
+        ],
+        "Hub NaPTAN":[
+            "HUBLHS"
+        ],
+        "Lines":[
+            "DLR"
+        ]
+    },
+    {
+        "Station Name":"Liverpool Street",
+        "NaPTAN ID":[
+            "940GZZLULVT",
+            "910GLIVST",
+            "910GLIVSTLL"
+        ],
+        "Hub NaPTAN":[
+            "HUBLST"
+        ],
+        "Lines":[
+            "Central",
+            "Circle",
+            "Elizabeth line",
+            "Hammersmith & City",
+            "London Overground",
+            "Metropolitan"
+        ]
+    },
+    {
+        "Station Name":"Lloyd Park",
+        "NaPTAN ID":[
+            "940GZZCRLOY"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Tram"
+        ]
+    },
+    {
+        "Station Name":"London Bridge",
+        "NaPTAN ID":[
+            "940GZZLULNB"
+        ],
+        "Hub NaPTAN":[
+            "HUBLBG"
+        ],
+        "Lines":[
+            "Jubilee",
+            "Northern"
+        ]
+    },
+    {
+        "Station Name":"London City Airport",
+        "NaPTAN ID":[
+            "940GZZDLLCA"
+        ],
+        "Hub NaPTAN":[
+            "HUBLCY"
+        ],
+        "Lines":[
+            "DLR"
+        ]
+    },
+    {
+        "Station Name":"London Euston",
+        "NaPTAN ID":[
+            "910GEUSTON"
+        ],
+        "Hub NaPTAN":[
+            "HUBEUS"
+        ],
+        "Lines":[
+            "London Overground",
+            "Northern",
+            "Victoria"
+        ]
+    },
+    {
+        "Station Name":"London Fields",
+        "NaPTAN ID":[
+            "910GLONFLDS"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Loughton",
+        "NaPTAN ID":[
+            "940GZZLULGN"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Central"
+        ]
+    },
+    {
+        "Station Name":"Maida Vale",
+        "NaPTAN ID":[
+            "940GZZLUMVL"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Bakerloo"
+        ]
+    },
+    {
+        "Station Name":"Maidenhead",
+        "NaPTAN ID":[
+            "910GMDNHEAD"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Elizabeth line"
+        ]
+    },
+    {
+        "Station Name":"Manor House",
+        "NaPTAN ID":[
+            "940GZZLUMRH"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"Manor Park",
+        "NaPTAN ID":[
+            "910GMANRPK"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Elizabeth line"
+        ]
+    },
+    {
+        "Station Name":"Mansion House",
+        "NaPTAN ID":[
+            "940GZZLUMSH"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Circle",
+            "District"
+        ]
+    },
+    {
+        "Station Name":"Marble Arch",
+        "NaPTAN ID":[
+            "940GZZLUMBA"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Central"
+        ]
+    },
+    {
+        "Station Name":"Maryland",
+        "NaPTAN ID":[
+            "910GMRYLAND"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Elizabeth line"
+        ]
+    },
+    {
+        "Station Name":"Marylebone",
+        "NaPTAN ID":[
+            "940GZZLUMYB"
+        ],
+        "Hub NaPTAN":[
+            "HUBMYB"
+        ],
+        "Lines":[
+            "Bakerloo"
+        ]
+    },
+    {
+        "Station Name":"Merton Park",
+        "NaPTAN ID":[
+            "940GZZCRMTP"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Tram"
+        ]
+    },
+    {
+        "Station Name":"Mile End",
+        "NaPTAN ID":[
+            "940GZZLUMED"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Central",
+            "District",
+            "Hammersmith & City"
+        ]
+    },
+    {
+        "Station Name":"Mill Hill East",
+        "NaPTAN ID":[
+            "940GZZLUMHL"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Northern"
+        ]
+    },
+    {
+        "Station Name":"Mitcham",
+        "NaPTAN ID":[
+            "940GZZCRMCH"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Tram"
+        ]
+    },
+    {
+        "Station Name":"Mitcham Junction",
+        "NaPTAN ID":[
+            "940GZZCRMJT"
+        ],
+        "Hub NaPTAN":[
+            "HUBMJT"
+        ],
+        "Lines":[
+            "Tram"
+        ]
+    },
+    {
+        "Station Name":"Monument",
+        "NaPTAN ID":[
+            "940GZZLUMMT"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Circle",
+            "District"
+        ]
+    },
+    {
+        "Station Name":"Moor Park",
+        "NaPTAN ID":[
+            "940GZZLUMPK"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Metropolitan"
+        ]
+    },
+    {
+        "Station Name":"Moorgate",
+        "NaPTAN ID":[
+            "940GZZLUMGT"
+        ],
+        "Hub NaPTAN":[
+            "HUBZMG"
+        ],
+        "Lines":[
+            "Circle",
+            "Hammersmith & City",
+            "Metropolitan",
+            "Northern"
+        ]
+    },
+    {
+        "Station Name":"Morden",
+        "NaPTAN ID":[
+            "940GZZLUMDN"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Northern"
+        ]
+    },
+    {
+        "Station Name":"Morden Road",
+        "NaPTAN ID":[
+            "940GZZCRMDN"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Tram"
+        ]
+    },
+    {
+        "Station Name":"Mornington Crescent",
+        "NaPTAN ID":[
+            "940GZZLUMTC"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Northern"
+        ]
+    },
+    {
+        "Station Name":"Mudchute",
+        "NaPTAN ID":[
+            "940GZZDLMUD"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "DLR"
+        ]
+    },
+    {
+        "Station Name":"Neasden",
+        "NaPTAN ID":[
+            "940GZZLUNDN"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Jubilee"
+        ]
+    },
+    {
+        "Station Name":"New Addington",
+        "NaPTAN ID":[
+            "940GZZCRNWA"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Tram"
+        ]
+    },
+    {
+        "Station Name":"New Cross",
+        "NaPTAN ID":[
+            "910GNWCRELL"
+        ],
+        "Hub NaPTAN":[
+            "HUBNWX"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"New Cross Gate",
+        "NaPTAN ID":[
+            "910GNEWXGTE"
+        ],
+        "Hub NaPTAN":[
+            "HUBNXG"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Newbury Park",
+        "NaPTAN ID":[
+            "940GZZLUNBP"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Central"
+        ]
+    },
+    {
+        "Station Name":"Nine Elms",
+        "NaPTAN ID":[
+            "940GZZNEUGST"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Northern"
+        ]
+    },
+    {
+        "Station Name":"North Acton",
+        "NaPTAN ID":[
+            "940GZZLUNAN"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Central"
+        ]
+    },
+    {
+        "Station Name":"North Ealing",
+        "NaPTAN ID":[
+            "940GZZLUNEN"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"North Greenwich",
+        "NaPTAN ID":[
+            "940GZZLUNGW"
+        ],
+        "Hub NaPTAN":[
+            "HUBNGW"
+        ],
+        "Lines":[
+            "Jubilee"
+        ]
+    },
+    {
+        "Station Name":"North Harrow",
+        "NaPTAN ID":[
+            "940GZZLUNHA"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Metropolitan"
+        ]
+    },
+    {
+        "Station Name":"North Wembley",
+        "NaPTAN ID":[
+            "940GZZLUNWY",
+            "910GNWEMBLY"
+        ],
+        "Hub NaPTAN":[
+            "HUBNWB"
+        ],
+        "Lines":[
+            "Bakerloo",
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Northfields",
+        "NaPTAN ID":[
+            "940GZZLUNFD"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"Northolt",
+        "NaPTAN ID":[
+            "940GZZLUNHT"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Central"
+        ]
+    },
+    {
+        "Station Name":"Northwick Park",
+        "NaPTAN ID":[
+            "940GZZLUNKP"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Metropolitan"
+        ]
+    },
+    {
+        "Station Name":"Northwood",
+        "NaPTAN ID":[
+            "940GZZLUNOW"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Metropolitan"
+        ]
+    },
+    {
+        "Station Name":"Northwood Hills",
+        "NaPTAN ID":[
+            "940GZZLUNWH"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Metropolitan"
+        ]
+    },
+    {
+        "Station Name":"Norwood Junction",
+        "NaPTAN ID":[
+            "910GNORWDJ"
+        ],
+        "Hub NaPTAN":[
+            "HUBNWD"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Notting Hill Gate",
+        "NaPTAN ID":[
+            "940GZZLUNHG"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Central",
+            "Circle",
+            "District"
+        ]
+    },
+    {
+        "Station Name":"Oakwood",
+        "NaPTAN ID":[
+            "940GZZLUOAK"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"Old Street",
+        "NaPTAN ID":[
+            "940GZZLUODS"
+        ],
+        "Hub NaPTAN":[
+            "HUBOLD"
+        ],
+        "Lines":[
+            "Northern"
+        ]
+    },
+    {
+        "Station Name":"Osterley",
+        "NaPTAN ID":[
+            "940GZZLUOSY"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"Oval",
+        "NaPTAN ID":[
+            "940GZZLUOVL"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Northern"
+        ]
+    },
+    {
+        "Station Name":"Oxford Circus",
+        "NaPTAN ID":[
+            "940GZZLUOXC"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Bakerloo",
+            "Central",
+            "Victoria"
+        ]
+    },
+    {
+        "Station Name":"Paddington",
+        "NaPTAN ID":[
+            "940GZZLUPAC",
+            "940GZZLUPAH",
+            "910GPADTLL",
+            "910GPADTON"
+        ],
+        "Hub NaPTAN":[
+            "HUBPAD"
+        ],
+        "Lines":[
+            "Bakerloo",
+            "Circle",
+            "District",
+            "Elizabeth line",
+            "Hammersmith & City"
+        ]
+    },
+    {
+        "Station Name":"Park Royal",
+        "NaPTAN ID":[
+            "940GZZLUPKR"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"Parsons Green",
+        "NaPTAN ID":[
+            "940GZZLUPSG"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "District"
+        ]
+    },
+    {
+        "Station Name":"Peckham Rye",
+        "NaPTAN ID":[
+            "910GPCKHMRY"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Penge West",
+        "NaPTAN ID":[
+            "910GPENEW"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Perivale",
+        "NaPTAN ID":[
+            "940GZZLUPVL"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Central"
+        ]
+    },
+    {
+        "Station Name":"Phipps Bridge",
+        "NaPTAN ID":[
+            "940GZZCRPHI"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Tram"
+        ]
+    },
+    {
+        "Station Name":"Piccadilly Circus",
+        "NaPTAN ID":[
+            "940GZZLUPCC"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Bakerloo",
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"Pimlico",
+        "NaPTAN ID":[
+            "940GZZLUPCO"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Victoria"
+        ]
+    },
+    {
+        "Station Name":"Pinner",
+        "NaPTAN ID":[
+            "940GZZLUPNR"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Metropolitan"
+        ]
+    },
+    {
+        "Station Name":"Plaistow",
+        "NaPTAN ID":[
+            "940GZZLUPLW"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "District",
+            "Hammersmith & City"
+        ]
+    },
+    {
+        "Station Name":"Pontoon Dock",
+        "NaPTAN ID":[
+            "940GZZDLPDK"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "DLR"
+        ]
+    },
+    {
+        "Station Name":"Poplar",
+        "NaPTAN ID":[
+            "940GZZDLPOP"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "DLR"
+        ]
+    },
+    {
+        "Station Name":"Preston Road",
+        "NaPTAN ID":[
+            "940GZZLUPRD"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Metropolitan"
+        ]
+    },
+    {
+        "Station Name":"Prince Regent",
+        "NaPTAN ID":[
+            "940GZZDLPRE"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "DLR"
+        ]
+    },
+    {
+        "Station Name":"Pudding Mill Lane",
+        "NaPTAN ID":[
+            "940GZZDLPUD"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "DLR"
+        ]
+    },
+    {
+        "Station Name":"Putney Bridge",
+        "NaPTAN ID":[
+            "940GZZLUPYB"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "District"
+        ]
+    },
+    {
+        "Station Name":"Queen's Park",
+        "NaPTAN ID":[
+            "940GZZLUQPS",
+            "910GQPRK"
+        ],
+        "Hub NaPTAN":[
+            "HUBQPW"
+        ],
+        "Lines":[
+            "Bakerloo",
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Queens Road Peckham",
+        "NaPTAN ID":[
+            "910GPCKHMQD"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Queensbury",
+        "NaPTAN ID":[
+            "940GZZLUQBY"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Jubilee"
+        ]
+    },
+    {
+        "Station Name":"Queensway",
+        "NaPTAN ID":[
+            "940GZZLUQWY"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Central"
+        ]
+    },
+    {
+        "Station Name":"Ravenscourt Park",
+        "NaPTAN ID":[
+            "940GZZLURVP"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "District"
+        ]
+    },
+    {
+        "Station Name":"Rayners Lane",
+        "NaPTAN ID":[
+            "940GZZLURYL"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Metropolitan",
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"Reading",
+        "NaPTAN ID":[
+            "910GRDNGSTN"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Elizabeth line"
+        ]
+    },
+    {
+        "Station Name":"Rectory Road",
+        "NaPTAN ID":[
+            "910GRCTRYRD"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Redbridge",
+        "NaPTAN ID":[
+            "940GZZLURBG"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Central"
+        ]
+    },
+    {
+        "Station Name":"Reeves Corner",
+        "NaPTAN ID":[
+            "940GZZCRRVC"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Tram"
+        ]
+    },
+    {
+        "Station Name":"Regent's Park",
+        "NaPTAN ID":[
+            "940GZZLURGP"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Bakerloo"
+        ]
+    },
+    {
+        "Station Name":"Richmond",
+        "NaPTAN ID":[
+            "940GZZLURMD",
+            "910GRICHMND"
+        ],
+        "Hub NaPTAN":[
+            "HUBRMD"
+        ],
+        "Lines":[
+            "District",
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Rickmansworth",
+        "NaPTAN ID":[
+            "940GZZLURKW"
+        ],
+        "Hub NaPTAN":[
+            "HUBRIC"
+        ],
+        "Lines":[
+            "Metropolitan"
+        ]
+    },
+    {
+        "Station Name":"Roding Valley",
+        "NaPTAN ID":[
+            "940GZZLURVY"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Central"
+        ]
+    },
+    {
+        "Station Name":"Romford",
+        "NaPTAN ID":[
+            "910GROMFORD"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Elizabeth line",
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Rotherhithe",
+        "NaPTAN ID":[
+            "910GRTHERHI"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Royal Albert Dlr",
+        "NaPTAN ID":[
+            "940GZZDLRAL"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "DLR"
+        ]
+    },
+    {
+        "Station Name":"Royal Oak",
+        "NaPTAN ID":[
+            "940GZZLURYO"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Circle",
+            "Hammersmith & City"
+        ]
+    },
+    {
+        "Station Name":"Royal Victoria",
+        "NaPTAN ID":[
+            "940GZZDLRVC"
+        ],
+        "Hub NaPTAN":[
+            "HUBRVC"
+        ],
+        "Lines":[
+            "DLR"
+        ]
+    },
+    {
+        "Station Name":"Ruislip",
+        "NaPTAN ID":[
+            "940GZZLURSP"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Metropolitan",
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"Ruislip Gardens",
+        "NaPTAN ID":[
+            "940GZZLURSG"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Central"
+        ]
+    },
+    {
+        "Station Name":"Ruislip Manor",
+        "NaPTAN ID":[
+            "940GZZLURSM"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Metropolitan",
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"Russell Square",
+        "NaPTAN ID":[
+            "940GZZLURSQ"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"Sandilands",
+        "NaPTAN ID":[
+            "940GZZCRSAN"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Tram"
+        ]
+    },
+    {
+        "Station Name":"Seven Kings",
+        "NaPTAN ID":[
+            "910GSVNKNGS"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Elizabeth line"
+        ]
+    },
+    {
+        "Station Name":"Seven Sisters",
+        "NaPTAN ID":[
+            "940GZZLUSVS",
+            "910GSEVNSIS"
+        ],
+        "Hub NaPTAN":[
+            "HUBSVS"
+        ],
+        "Lines":[
+            "London Overground",
+            "Victoria"
+        ]
+    },
+    {
+        "Station Name":"Shadwell",
+        "NaPTAN ID":[
+            "910GSHADWEL",
+            "940GZZDLSHA"
+        ],
+        "Hub NaPTAN":[
+            "HUBSDE"
+        ],
+        "Lines":[
+            "DLR",
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Shenfield",
+        "NaPTAN ID":[
+            "910GSHENFLD"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Elizabeth line"
+        ]
+    },
+    {
+        "Station Name":"Shepherd's Bush",
+        "NaPTAN ID":[
+            "940GZZLUSBC",
+            "910GSHPDSB"
+        ],
+        "Hub NaPTAN":[
+            "HUBSPB"
+        ],
+        "Lines":[
+            "Central",
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Shepherd's Bush Market",
+        "NaPTAN ID":[
+            "940GZZLUSBM"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Circle",
+            "Hammersmith & City"
+        ]
+    },
+    {
+        "Station Name":"Shoreditch High Street",
+        "NaPTAN ID":[
+            "910GSHRDHST"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Silver Street",
+        "NaPTAN ID":[
+            "910GSIVRST"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Sloane Square",
+        "NaPTAN ID":[
+            "940GZZLUSSQ"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Circle",
+            "District"
+        ]
+    },
+    {
+        "Station Name":"Slough",
+        "NaPTAN ID":[
+            "910GSLOUGH"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Elizabeth line"
+        ]
+    },
+    {
+        "Station Name":"Snaresbrook",
+        "NaPTAN ID":[
+            "940GZZLUSNB"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Central"
+        ]
+    },
+    {
+        "Station Name":"South Acton",
+        "NaPTAN ID":[
+            "910GSACTON"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"South Ealing",
+        "NaPTAN ID":[
+            "940GZZLUSEA"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"South Hampstead",
+        "NaPTAN ID":[
+            "910GSHMPSTD"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"South Harrow",
+        "NaPTAN ID":[
+            "940GZZLUSHH"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"South Kensington",
+        "NaPTAN ID":[
+            "940GZZLUSKS"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Circle",
+            "District",
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"South Kenton",
+        "NaPTAN ID":[
+            "940GZZLUSKT",
+            "910GSKENTON"
+        ],
+        "Hub NaPTAN":[
+            "HUBSOK"
+        ],
+        "Lines":[
+            "Bakerloo",
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"South Quay",
+        "NaPTAN ID":[
+            "940GZZDLSOQ"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "DLR"
+        ]
+    },
+    {
+        "Station Name":"South Ruislip",
+        "NaPTAN ID":[
+            "940GZZLUSRP"
+        ],
+        "Hub NaPTAN":[
+            "HUBSRU"
+        ],
+        "Lines":[
+            "Central"
+        ]
+    },
+    {
+        "Station Name":"South Tottenham",
+        "NaPTAN ID":[
+            "910GSTOTNHM"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"South Wimbledon",
+        "NaPTAN ID":[
+            "940GZZLUSWN"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Northern"
+        ]
+    },
+    {
+        "Station Name":"South Woodford",
+        "NaPTAN ID":[
+            "940GZZLUSWF"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Central"
+        ]
+    },
+    {
+        "Station Name":"Southall",
+        "NaPTAN ID":[
+            "910GSTHALL"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Elizabeth line"
+        ]
+    },
+    {
+        "Station Name":"Southbury",
+        "NaPTAN ID":[
+            "910GSBURY"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Southfields",
+        "NaPTAN ID":[
+            "940GZZLUSFS"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "District"
+        ]
+    },
+    {
+        "Station Name":"Southgate",
+        "NaPTAN ID":[
+            "940GZZLUSGT"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"Southwark",
+        "NaPTAN ID":[
+            "940GZZLUSWK"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Jubilee"
+        ]
+    },
+    {
+        "Station Name":"St James Street (London)",
+        "NaPTAN ID":[
+            "910GSTJMSST"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"St John's Wood",
+        "NaPTAN ID":[
+            "940GZZLUSJW"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Jubilee"
+        ]
+    },
+    {
+        "Station Name":"St. James's Park",
+        "NaPTAN ID":[
+            "940GZZLUSJP"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Circle",
+            "District"
+        ]
+    },
+    {
+        "Station Name":"St. Paul's",
+        "NaPTAN ID":[
+            "940GZZLUSPU"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Central"
+        ]
+    },
+    {
+        "Station Name":"Stamford Brook",
+        "NaPTAN ID":[
+            "940GZZLUSFB"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "District"
+        ]
+    },
+    {
+        "Station Name":"Stamford Hill",
+        "NaPTAN ID":[
+            "910GSTMFDHL"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Stanmore",
+        "NaPTAN ID":[
+            "940GZZLUSTM"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Jubilee"
+        ]
+    },
+    {
+        "Station Name":"Star Lane",
+        "NaPTAN ID":[
+            "940GZZDLSTL"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "DLR"
+        ]
+    },
+    {
+        "Station Name":"Stepney Green",
+        "NaPTAN ID":[
+            "940GZZLUSGN"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "District",
+            "Hammersmith & City"
+        ]
+    },
+    {
+        "Station Name":"Stockwell",
+        "NaPTAN ID":[
+            "940GZZLUSKW"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Northern",
+            "Victoria"
+        ]
+    },
+    {
+        "Station Name":"Stoke Newington",
+        "NaPTAN ID":[
+            "910GSTKNWNG"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Stonebridge Park",
+        "NaPTAN ID":[
+            "940GZZLUSGP",
+            "910GSTNBGPK"
+        ],
+        "Hub NaPTAN":[
+            "HUBSBP"
+        ],
+        "Lines":[
+            "Bakerloo",
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Stratford",
+        "NaPTAN ID":[
+            "940GZZLUSTD",
+            "910GSTFD",
+            "940GZZDLSTD"
+        ],
+        "Hub NaPTAN":[
+            "HUBSRA"
+        ],
+        "Lines":[
+            "Central",
+            "DLR",
+            "Elizabeth line",
+            "Jubilee",
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Stratford High Street",
+        "NaPTAN ID":[
+            "940GZZDLSHS"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "DLR"
+        ]
+    },
+    {
+        "Station Name":"Stratford International",
+        "NaPTAN ID":[
+            "940GZZDLSIT"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "DLR"
+        ]
+    },
+    {
+        "Station Name":"Sudbury Hill",
+        "NaPTAN ID":[
+            "940GZZLUSUH"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"Sudbury Town",
+        "NaPTAN ID":[
+            "940GZZLUSUT"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"Surrey Quays",
+        "NaPTAN ID":[
+            "910GSURREYQ"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Swiss Cottage",
+        "NaPTAN ID":[
+            "940GZZLUSWC"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Jubilee"
+        ]
+    },
+    {
+        "Station Name":"Sydenham",
+        "NaPTAN ID":[
+            "910GSYDENHM"
+        ],
+        "Hub NaPTAN":[
+            "HUBSYD"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Tamworth Road \/ Centrale",
+        "NaPTAN ID":[
+            "940GZZCRCTR"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Tram"
+        ]
+    },
+    {
+        "Station Name":"Taplow",
+        "NaPTAN ID":[
+            "910GTAPLOW"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Elizabeth line"
+        ]
+    },
+    {
+        "Station Name":"Temple",
+        "NaPTAN ID":[
+            "940GZZLUTMP"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Circle",
+            "District"
+        ]
+    },
+    {
+        "Station Name":"Theobalds Grove",
+        "NaPTAN ID":[
+            "910GTHBLDSG"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Therapia Lane",
+        "NaPTAN ID":[
+            "940GZZCRTPA"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Tram"
+        ]
+    },
+    {
+        "Station Name":"Theydon Bois",
+        "NaPTAN ID":[
+            "940GZZLUTHB"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Central"
+        ]
+    },
+    {
+        "Station Name":"Tooting Bec",
+        "NaPTAN ID":[
+            "940GZZLUTBC"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Northern"
+        ]
+    },
+    {
+        "Station Name":"Tooting Broadway",
+        "NaPTAN ID":[
+            "940GZZLUTBY"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Northern"
+        ]
+    },
+    {
+        "Station Name":"Tottenham Court Road",
+        "NaPTAN ID":[
+            "940GZZLUTCR",
+            "910GTOTCTRD"
+        ],
+        "Hub NaPTAN":[
+            "HUBTCR"
+        ],
+        "Lines":[
+            "Central",
+            "Elizabeth line",
+            "Northern"
+        ]
+    },
+    {
+        "Station Name":"Tottenham Hale",
+        "NaPTAN ID":[
+            "940GZZLUTMH"
+        ],
+        "Hub NaPTAN":[
+            "HUBTOM"
+        ],
+        "Lines":[
+            "Victoria"
+        ]
+    },
+    {
+        "Station Name":"Totteridge & Whetstone",
+        "NaPTAN ID":[
+            "940GZZLUTAW"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Northern"
+        ]
+    },
+    {
+        "Station Name":"Tower Gateway",
+        "NaPTAN ID":[
+            "940GZZDLTWG"
+        ],
+        "Hub NaPTAN":[
+            "HUBTOG"
+        ],
+        "Lines":[
+            "DLR"
+        ]
+    },
+    {
+        "Station Name":"Tower Hill",
+        "NaPTAN ID":[
+            "940GZZLUTWH"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Circle",
+            "District"
+        ]
+    },
+    {
+        "Station Name":"Tufnell Park",
+        "NaPTAN ID":[
+            "940GZZLUTFP"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Northern"
+        ]
+    },
+    {
+        "Station Name":"Turkey Street",
+        "NaPTAN ID":[
+            "910GTURKYST"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Turnham Green",
+        "NaPTAN ID":[
+            "940GZZLUTNG"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "District",
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"Turnpike Lane",
+        "NaPTAN ID":[
+            "940GZZLUTPN"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"Twyford",
+        "NaPTAN ID":[
+            "910GTWYFORD"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Elizabeth line"
+        ]
+    },
+    {
+        "Station Name":"Upminster",
+        "NaPTAN ID":[
+            "940GZZLUUPM",
+            "910GUPMNSTR"
+        ],
+        "Hub NaPTAN":[
+            "HUBUPM"
+        ],
+        "Lines":[
+            "District",
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Upminster Bridge",
+        "NaPTAN ID":[
+            "940GZZLUUPB"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "District"
+        ]
+    },
+    {
+        "Station Name":"Upney",
+        "NaPTAN ID":[
+            "940GZZLUUPY"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "District"
+        ]
+    },
+    {
+        "Station Name":"Upper Holloway",
+        "NaPTAN ID":[
+            "910GUPRHLWY"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Upton Park",
+        "NaPTAN ID":[
+            "940GZZLUUPK"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "District",
+            "Hammersmith & City"
+        ]
+    },
+    {
+        "Station Name":"Uxbridge",
+        "NaPTAN ID":[
+            "940GZZLUUXB"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Metropolitan",
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"Vauxhall",
+        "NaPTAN ID":[
+            "940GZZLUVXL"
+        ],
+        "Hub NaPTAN":[
+            "HUBVXH"
+        ],
+        "Lines":[
+            "Victoria"
+        ]
+    },
+    {
+        "Station Name":"Victoria",
+        "NaPTAN ID":[
+            "940GZZLUVIC"
+        ],
+        "Hub NaPTAN":[
+            "HUBVIC"
+        ],
+        "Lines":[
+            "Circle",
+            "District",
+            "Victoria"
+        ]
+    },
+    {
+        "Station Name":"Waddon Marsh",
+        "NaPTAN ID":[
+            "940GZZCRWAD"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Tram"
+        ]
+    },
+    {
+        "Station Name":"Walthamstow Central",
+        "NaPTAN ID":[
+            "940GZZLUWWL",
+            "910GWLTWCEN"
+        ],
+        "Hub NaPTAN":[
+            "HUBWHC"
+        ],
+        "Lines":[
+            "London Overground",
+            "Victoria"
+        ]
+    },
+    {
+        "Station Name":"Walthamstow Queens Road",
+        "NaPTAN ID":[
+            "910GWLTHQRD"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Wandle Park",
+        "NaPTAN ID":[
+            "940GZZCRWAN"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Tram"
+        ]
+    },
+    {
+        "Station Name":"Wandsworth Road",
+        "NaPTAN ID":[
+            "910GWNDSWRD"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Wanstead",
+        "NaPTAN ID":[
+            "940GZZLUWSD"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Central"
+        ]
+    },
+    {
+        "Station Name":"Wanstead Park",
+        "NaPTAN ID":[
+            "910GWNSTDPK"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Wapping",
+        "NaPTAN ID":[
+            "910GWAPPING"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Warren Street",
+        "NaPTAN ID":[
+            "940GZZLUWRR"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Northern",
+            "Victoria"
+        ]
+    },
+    {
+        "Station Name":"Warwick Avenue",
+        "NaPTAN ID":[
+            "940GZZLUWKA"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Bakerloo"
+        ]
+    },
+    {
+        "Station Name":"Waterloo",
+        "NaPTAN ID":[
+            "940GZZLUWLO"
+        ],
+        "Hub NaPTAN":[
+            "HUBWAT"
+        ],
+        "Lines":[
+            "Bakerloo",
+            "Jubilee",
+            "Northern",
+            "Waterloo & City"
+        ]
+    },
+    {
+        "Station Name":"Watford",
+        "NaPTAN ID":[
+            "940GZZLUWAF"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Metropolitan"
+        ]
+    },
+    {
+        "Station Name":"Watford High Street",
+        "NaPTAN ID":[
+            "910GWATFDHS"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Watford Junction",
+        "NaPTAN ID":[
+            "910GWATFDJ",
+            "910GWATFJDC"
+        ],
+        "Hub NaPTAN":[
+            "HUBWFJ"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Wellesley Road",
+        "NaPTAN ID":[
+            "940GZZCRWEL"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Tram"
+        ]
+    },
+    {
+        "Station Name":"Wembley Central",
+        "NaPTAN ID":[
+            "940GZZLUWYC",
+            "910GWMBY"
+        ],
+        "Hub NaPTAN":[
+            "HUBWMB"
+        ],
+        "Lines":[
+            "Bakerloo",
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Wembley Park",
+        "NaPTAN ID":[
+            "940GZZLUWYP"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Jubilee",
+            "Metropolitan"
+        ]
+    },
+    {
+        "Station Name":"West Acton",
+        "NaPTAN ID":[
+            "940GZZLUWTA"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Central"
+        ]
+    },
+    {
+        "Station Name":"West Brompton",
+        "NaPTAN ID":[
+            "940GZZLUWBN",
+            "910GWBRMPTN"
+        ],
+        "Hub NaPTAN":[
+            "HUBWBP"
+        ],
+        "Lines":[
+            "District",
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"West Croydon",
+        "NaPTAN ID":[
+            "910GWCROYDN",
+            "940GZZCRWCR"
+        ],
+        "Hub NaPTAN":[
+            "HUBWCY"
+        ],
+        "Lines":[
+            "London Overground",
+            "Tram"
+        ]
+    },
+    {
+        "Station Name":"West Drayton",
+        "NaPTAN ID":[
+            "910GWDRYTON"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Elizabeth line"
+        ]
+    },
+    {
+        "Station Name":"West Ealing",
+        "NaPTAN ID":[
+            "910GWEALING"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Elizabeth line"
+        ]
+    },
+    {
+        "Station Name":"West Finchley",
+        "NaPTAN ID":[
+            "940GZZLUWFN"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Northern"
+        ]
+    },
+    {
+        "Station Name":"West Ham",
+        "NaPTAN ID":[
+            "940GZZLUWHM",
+            "940GZZDLWHM"
+        ],
+        "Hub NaPTAN":[
+            "HUBWEH"
+        ],
+        "Lines":[
+            "DLR",
+            "District",
+            "Hammersmith & City",
+            "Jubilee"
+        ]
+    },
+    {
+        "Station Name":"West Hampstead",
+        "NaPTAN ID":[
+            "940GZZLUWHP",
+            "910GWHMDSTD"
+        ],
+        "Hub NaPTAN":[
+            "HUBWHD"
+        ],
+        "Lines":[
+            "Jubilee",
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"West Harrow",
+        "NaPTAN ID":[
+            "940GZZLUWHW"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Metropolitan"
+        ]
+    },
+    {
+        "Station Name":"West India Quay",
+        "NaPTAN ID":[
+            "940GZZDLWIQ"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "DLR"
+        ]
+    },
+    {
+        "Station Name":"West Kensington",
+        "NaPTAN ID":[
+            "940GZZLUWKN"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "District"
+        ]
+    },
+    {
+        "Station Name":"West Ruislip",
+        "NaPTAN ID":[
+            "940GZZLUWRP"
+        ],
+        "Hub NaPTAN":[
+            "HUBWRU"
+        ],
+        "Lines":[
+            "Central"
+        ]
+    },
+    {
+        "Station Name":"West Silvertown",
+        "NaPTAN ID":[
+            "940GZZDLWSV"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "DLR"
+        ]
+    },
+    {
+        "Station Name":"Westbourne Park",
+        "NaPTAN ID":[
+            "940GZZLUWSP"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Circle",
+            "Hammersmith & City"
+        ]
+    },
+    {
+        "Station Name":"Westferry",
+        "NaPTAN ID":[
+            "940GZZDLWFE"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "DLR"
+        ]
+    },
+    {
+        "Station Name":"Westminster",
+        "NaPTAN ID":[
+            "940GZZLUWSM"
+        ],
+        "Hub NaPTAN":[
+            "HUBWSM"
+        ],
+        "Lines":[
+            "Circle",
+            "District",
+            "Jubilee"
+        ]
+    },
+    {
+        "Station Name":"White City",
+        "NaPTAN ID":[
+            "940GZZLUWCY"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Central"
+        ]
+    },
+    {
+        "Station Name":"White Hart Lane",
+        "NaPTAN ID":[
+            "910GWHHRTLA"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Whitechapel",
+        "NaPTAN ID":[
+            "940GZZLUWPL",
+            "910GWCHAPEL",
+            "910GWCHAPXR"
+        ],
+        "Hub NaPTAN":[
+            "HUBZWL"
+        ],
+        "Lines":[
+            "District",
+            "Elizabeth line",
+            "Hammersmith & City",
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Willesden Green",
+        "NaPTAN ID":[
+            "940GZZLUWIG"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Jubilee"
+        ]
+    },
+    {
+        "Station Name":"Willesden Junction",
+        "NaPTAN ID":[
+            "940GZZLUWJN",
+            "910GWLSDJHL"
+        ],
+        "Hub NaPTAN":[
+            "HUBWIJ"
+        ],
+        "Lines":[
+            "Bakerloo",
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Wimbledon",
+        "NaPTAN ID":[
+            "940GZZLUWIM",
+            "940GZZCRWMB"
+        ],
+        "Hub NaPTAN":[
+            "HUBWIM"
+        ],
+        "Lines":[
+            "District",
+            "Tram"
+        ]
+    },
+    {
+        "Station Name":"Wimbledon Park",
+        "NaPTAN ID":[
+            "940GZZLUWIP"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "District"
+        ]
+    },
+    {
+        "Station Name":"Wood Green",
+        "NaPTAN ID":[
+            "940GZZLUWOG"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Piccadilly"
+        ]
+    },
+    {
+        "Station Name":"Wood Lane",
+        "NaPTAN ID":[
+            "940GZZLUWLA"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Circle",
+            "Hammersmith & City"
+        ]
+    },
+    {
+        "Station Name":"Wood Street",
+        "NaPTAN ID":[
+            "910GWDST"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Woodford",
+        "NaPTAN ID":[
+            "940GZZLUWOF"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Central"
+        ]
+    },
+    {
+        "Station Name":"Woodgrange Park",
+        "NaPTAN ID":[
+            "910GWDGRNPK"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "London Overground"
+        ]
+    },
+    {
+        "Station Name":"Woodside",
+        "NaPTAN ID":[
+            "940GZZCRWOD"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Tram"
+        ]
+    },
+    {
+        "Station Name":"Woodside Park",
+        "NaPTAN ID":[
+            "940GZZLUWOP"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Northern"
+        ]
+    },
+    {
+        "Station Name":"Woolwich",
+        "NaPTAN ID":[
+            "910GWOLWXR"
+        ],
+        "Hub NaPTAN":[
+            "N\/A"
+        ],
+        "Lines":[
+            "Elizabeth line"
+        ]
+    },
+    {
+        "Station Name":"Woolwich Arsenal",
+        "NaPTAN ID":[
+            "940GZZDLWLA"
+        ],
+        "Hub NaPTAN":[
+            "HUBWWA"
+        ],
+        "Lines":[
+            "DLR"
+        ]
+    }
+]

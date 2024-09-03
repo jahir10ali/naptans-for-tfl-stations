@@ -1,0 +1,458 @@
+Station Name,NaPTAN ID,Hub NaPTAN,Lines
+Abbey Road,['940GZZDLABR'],['N/A'],['DLR']
+Abbey Wood,['910GABWDXR'],['HUBABW'],['Elizabeth line']
+Acton Central,['910GACTNCTL'],['N/A'],['London Overground']
+Acton Main Line,['910GACTONML'],['N/A'],['Elizabeth line']
+Acton Town,['940GZZLUACT'],['N/A'],"['District', 'Piccadilly']"
+Addington Village,['940GZZCRADV'],['N/A'],['Tram']
+Addiscombe,['940GZZCRADD'],['N/A'],['Tram']
+Aldgate,['940GZZLUALD'],['N/A'],"['Circle', 'Metropolitan']"
+Aldgate East,['940GZZLUADE'],['N/A'],"['District', 'Hammersmith & City']"
+All Saints,['940GZZDLALL'],['N/A'],['DLR']
+Alperton,['940GZZLUALP'],['N/A'],['Piccadilly']
+Amersham,['940GZZLUAMS'],['HUBAMR'],['Metropolitan']
+Ampere Way,['940GZZCRAMP'],['N/A'],['Tram']
+Anerley,['910GANERLEY'],['N/A'],['London Overground']
+Angel,['940GZZLUAGL'],['N/A'],['Northern']
+Archway,['940GZZLUACY'],['N/A'],['Northern']
+Arena,['940GZZCRARA'],['N/A'],['Tram']
+Arnos Grove,['940GZZLUASG'],['N/A'],['Piccadilly']
+Arsenal,['940GZZLUASL'],['N/A'],['Piccadilly']
+Avenue Road,['940GZZCRAVE'],['N/A'],['Tram']
+Baker Street,['940GZZLUBST'],['N/A'],"['Bakerloo', 'Circle', 'Hammersmith & City', 'Jubilee', 'Metropolitan']"
+Balham,['940GZZLUBLM'],['HUBBAL'],['Northern']
+Bank,"['940GZZLUBNK', '940GZZDLBNK']",['HUBBAN'],"['Central', 'DLR', 'Northern', 'Waterloo & City']"
+Barbican,['940GZZLUBBN'],['N/A'],"['Circle', 'Hammersmith & City', 'Metropolitan']"
+Barking,"['940GZZLUBKG', '910GBARKING']",['HUBBKG'],"['District', 'Hammersmith & City', 'London Overground']"
+Barking Riverside,['910GBKRVS'],['N/A'],['London Overground']
+Barkingside,['940GZZLUBKE'],['N/A'],['Central']
+Barons Court,['940GZZLUBSC'],['N/A'],"['District', 'Piccadilly']"
+Battersea Power,['940GZZBPSUST'],['N/A'],['Northern']
+Bayswater,['940GZZLUBWT'],['N/A'],"['Circle', 'District']"
+Beckenham Junction,['940GZZCRBEK'],['HUBBEK'],['Tram']
+Beckenham Road,['940GZZCRBRD'],['N/A'],['Tram']
+Beckton,['940GZZDLBEC'],['N/A'],['DLR']
+Beckton Park,['940GZZDLBPK'],['N/A'],['DLR']
+Becontree,['940GZZLUBEC'],['N/A'],['District']
+Beddington Lane,['940GZZCRBED'],['N/A'],['Tram']
+Belgrave Walk,['940GZZCRBGV'],['N/A'],['Tram']
+Belsize Park,['940GZZLUBZP'],['N/A'],['Northern']
+Bermondsey,['940GZZLUBMY'],['N/A'],['Jubilee']
+Bethnal Green,"['940GZZLUBLG', '910GBTHNLGR']",['N/A'],"['Central', 'London Overground']"
+Birkbeck,['940GZZCRBIR'],['HUBBIR'],['Tram']
+Blackfriars,['940GZZLUBKF'],['HUBBFR'],"['Circle', 'District']"
+Blackhorse Lane,['940GZZCRBLA'],['N/A'],['Tram']
+Blackhorse Road,"['940GZZLUBLR', '910GBLCHSRD']",['HUBBHO'],"['London Overground', 'Victoria']"
+Blackwall,['940GZZDLBLA'],['N/A'],['DLR']
+Bond Street,"['940GZZLUBND', '910GBONDST']",['HUBBDS'],"['Central', 'Elizabeth line', 'Jubilee']"
+Borough,['940GZZLUBOR'],['N/A'],['Northern']
+Boston Manor,['940GZZLUBOS'],['N/A'],['Piccadilly']
+Bounds Green,['940GZZLUBDS'],['N/A'],['Piccadilly']
+Bow Church,['940GZZDLBOW'],['N/A'],['DLR']
+Bow Road,['940GZZLUBWR'],['N/A'],"['District', 'Hammersmith & City']"
+Brent Cross,['940GZZLUBTX'],['N/A'],['Northern']
+Brentwood,['910GBRTWOOD'],['N/A'],['Elizabeth line']
+Brixton,['940GZZLUBXN'],['HUBBRX'],['Victoria']
+Brockley,['910GBROCKLY'],['N/A'],['London Overground']
+Bromley-By-Bow,['940GZZLUBBB'],['N/A'],"['District', 'Hammersmith & City']"
+Brondesbury,['910GBRBY'],['N/A'],['London Overground']
+Brondesbury Park,['910GBRBYPK'],['N/A'],['London Overground']
+Bruce Grove,['910GBRUCGRV'],['N/A'],['London Overground']
+Buckhurst Hill,['940GZZLUBKH'],['N/A'],['Central']
+Burnham (Berks),['910GBNHAM'],['N/A'],['Elizabeth line']
+Burnt Oak,['940GZZLUBTK'],['N/A'],['Northern']
+Bush Hill Park,['910GBHILLPK'],['N/A'],['London Overground']
+Bushey,"['910GBUSHEY', '910GBUSHYDC']",['HUBBSH'],['London Overground']
+Caledonian Road,['940GZZLUCAR'],['N/A'],['Piccadilly']
+Caledonian Road & Barnsbury,['910GCLDNNRB'],['N/A'],['London Overground']
+Cambridge Heath (London),['910GCAMHTH'],['N/A'],['London Overground']
+Camden Road,['910GCMDNRD'],['N/A'],['London Overground']
+Camden Town,['940GZZLUCTN'],['N/A'],['Northern']
+Canada Water,"['940GZZLUCWR', '910GCNDAW']",['HUBZCW'],"['Jubilee', 'London Overground']"
+Canary Wharf,"['940GZZLUCYF', '910GCANWHRF', '940GZZDLCAN']",['HUBCAW'],"['DLR', 'Elizabeth line', 'Jubilee']"
+Canning Town,"['940GZZLUCGT', '940GZZDLCGT']",['HUBCAN'],"['DLR', 'Jubilee']"
+Cannon Street,['940GZZLUCST'],['HUBCST'],"['Circle', 'District']"
+Canonbury,['910GCNNB'],['N/A'],['London Overground']
+Canons Park,['940GZZLUCPK'],['N/A'],['Jubilee']
+Carpenders Park,['910GCRPNDPK'],['N/A'],['London Overground']
+Chadwell Heath,['910GCHDWLHT'],['N/A'],['Elizabeth line']
+Chalfont & Latimer,['940GZZLUCAL'],['HUBCFO'],['Metropolitan']
+Chalk Farm,['940GZZLUCFM'],['N/A'],['Northern']
+Chancery Lane,['940GZZLUCHL'],['N/A'],['Central']
+Charing Cross,['940GZZLUCHX'],['HUBCHX'],"['Bakerloo', 'Northern']"
+Chesham,['940GZZLUCSM'],['N/A'],['Metropolitan']
+Cheshunt,['910GCHESHNT'],['N/A'],['London Overground']
+Chigwell,['940GZZLUCWL'],['N/A'],['Central']
+Chingford,['910GCHINGFD'],['N/A'],['London Overground']
+Chiswick Park,['940GZZLUCWP'],['N/A'],['District']
+Chorleywood,['940GZZLUCYD'],['HUBCLW'],['Metropolitan']
+Church Street,['940GZZCRCHR'],['N/A'],['Tram']
+Clapham Common,['940GZZLUCPC'],['N/A'],['Northern']
+Clapham High Street,['910GCLPHHS'],['N/A'],['London Overground']
+Clapham Junction,"['910GCLPHMJC', '910GCLPHMJ1']",['HUBCLJ'],['London Overground']
+Clapham North,['940GZZLUCPN'],['N/A'],['Northern']
+Clapham South,['940GZZLUCPS'],['N/A'],['Northern']
+Clapton,['910GCLAPTON'],['N/A'],['London Overground']
+Cockfosters,['940GZZLUCKS'],['N/A'],['Piccadilly']
+Colindale,['940GZZLUCND'],['N/A'],['Northern']
+Colliers Wood,['940GZZLUCSD'],['N/A'],['Northern']
+Coombe Lane,['940GZZCRCOO'],['N/A'],['Tram']
+Covent Garden,['940GZZLUCGN'],['N/A'],['Piccadilly']
+Crossharbour,['940GZZDLCLA'],['N/A'],['DLR']
+Crouch Hill,['910GCROUCHH'],['N/A'],['London Overground']
+Croxley,['940GZZLUCXY'],['N/A'],['Metropolitan']
+Crystal Palace,['910GCRYSTLP'],['HUBCYP'],['London Overground']
+Custom House,['910GCSTMHSXR'],['HUBCUS'],"['DLR', 'Elizabeth line']"
+Custom House for ExCeL,['940GZZDLCUS'],['HUBCUS'],"['DLR', 'Elizabeth line']"
+Cutty Sark (for Maritime Greenwich),['940GZZDLCUT'],['HUBCUT'],['DLR']
+Cyprus,['940GZZDLCYP'],['N/A'],['DLR']
+Dagenham East,['940GZZLUDGE'],['N/A'],['District']
+Dagenham Heathway,['940GZZLUDGY'],['N/A'],['District']
+Dalston Junction,['910GDALS'],['N/A'],['London Overground']
+Dalston Kingsland,['910GDALSKLD'],['N/A'],['London Overground']
+Debden,['940GZZLUDBN'],['N/A'],['Central']
+Denmark Hill,['910GDENMRKH'],['N/A'],['London Overground']
+Deptford Bridge,['940GZZDLDEP'],['N/A'],['DLR']
+Devons Road,['940GZZDLDEV'],['N/A'],['DLR']
+Dollis Hill,['940GZZLUDOH'],['N/A'],['Jubilee']
+Dundonald Road,['940GZZCRDDR'],['N/A'],['Tram']
+Ealing Broadway,"['940GZZLUEBY', '910GEALINGB']",['HUBEAL'],"['Central', 'District', 'Elizabeth line']"
+Ealing Common,['940GZZLUECM'],['N/A'],"['District', 'Piccadilly']"
+Earl's Court,['940GZZLUECT'],['N/A'],"['District', 'Piccadilly']"
+East Acton,['940GZZLUEAN'],['N/A'],['Central']
+East Croydon,['940GZZCRECR'],['HUBECY'],['Tram']
+East Finchley,['940GZZLUEFY'],['N/A'],['Northern']
+East Ham,['940GZZLUEHM'],['N/A'],"['District', 'Hammersmith & City']"
+East India,['940GZZDLEIN'],['N/A'],['DLR']
+East Putney,['940GZZLUEPY'],['N/A'],['District']
+Eastcote,['940GZZLUEAE'],['N/A'],"['Metropolitan', 'Piccadilly']"
+Edgware,['940GZZLUEGW'],['N/A'],['Northern']
+Edgware Road,"['940GZZLUERB', '940GZZLUERC']",['N/A'],"['Bakerloo', 'Circle', 'District', 'Hammersmith & City']"
+Edmonton Green,['910GEDMNGRN'],['N/A'],['London Overground']
+Elephant & Castle,['940GZZLUEAC'],['HUBEPH'],"['Bakerloo', 'Northern']"
+Elm Park,['940GZZLUEPK'],['N/A'],['District']
+Elmers End,['940GZZCRELM'],['HUBELM'],['Tram']
+Elverson Road,['940GZZDLELV'],['N/A'],['DLR']
+Embankment,['940GZZLUEMB'],['N/A'],"['Bakerloo', 'Circle', 'District', 'Northern']"
+Emerson Park,['910GEMRSPKH'],['N/A'],['London Overground']
+Enfield Town,['910GENFLDTN'],['N/A'],['London Overground']
+Epping,['940GZZLUEPG'],['N/A'],['Central']
+Euston,['940GZZLUEUS'],['HUBEUS'],"['London Overground', 'Northern', 'Victoria']"
+Euston Square,['940GZZLUESQ'],['N/A'],"['Circle', 'Hammersmith & City', 'Metropolitan']"
+Fairlop,['940GZZLUFLP'],['N/A'],['Central']
+Farringdon,"['940GZZLUFCN', '910GFRNDXR']",['HUBZFD'],"['Circle', 'Elizabeth line', 'Hammersmith & City', 'Metropolitan']"
+Fieldway,['940GZZCRFLD'],['N/A'],['Tram']
+Finchley Central,['940GZZLUFYC'],['N/A'],['Northern']
+Finchley Road,['940GZZLUFYR'],['N/A'],"['Jubilee', 'Metropolitan']"
+Finchley Road & Frognal,['910GFNCHLYR'],['N/A'],['London Overground']
+Finsbury Park,['940GZZLUFPK'],['HUBFPK'],"['Piccadilly', 'Victoria']"
+Forest Gate,['910GFRSTGT'],['N/A'],['Elizabeth line']
+Forest Hill,['910GFORESTH'],['N/A'],['London Overground']
+Fulham Broadway,['940GZZLUFBY'],['N/A'],['District']
+Gallions Reach,['940GZZDLGAL'],['N/A'],['DLR']
+Gants Hill,['940GZZLUGTH'],['N/A'],['Central']
+George Street,['940GZZCRCEN'],['N/A'],['Tram']
+Gidea Park,['910GGIDEAPK'],['N/A'],['Elizabeth line']
+Gloucester Road,['940GZZLUGTR'],['N/A'],"['Circle', 'District', 'Piccadilly']"
+Golders Green,['940GZZLUGGN'],['N/A'],['Northern']
+Goldhawk Road,['940GZZLUGHK'],['N/A'],"['Circle', 'Hammersmith & City']"
+Goodge Street,['940GZZLUGDG'],['N/A'],['Northern']
+Goodmayes,['910GGODMAYS'],['N/A'],['Elizabeth line']
+Gospel Oak,['910GGOSPLOK'],['N/A'],['London Overground']
+Grange Hill,['940GZZLUGGH'],['N/A'],['Central']
+Gravel Hill,['940GZZCRGRA'],['N/A'],['Tram']
+Great Portland Street,['940GZZLUGPS'],['N/A'],"['Circle', 'Hammersmith & City', 'Metropolitan']"
+Green Park,['940GZZLUGPK'],['N/A'],"['Jubilee', 'Piccadilly', 'Victoria']"
+Greenford,['940GZZLUGFD'],['HUBGFD'],['Central']
+Greenwich,['940GZZDLGRE'],['HUBGNW'],['DLR']
+Gunnersbury,"['940GZZLUGBY', '910GGNRSBRY']",['HUBGUN'],"['District', 'London Overground']"
+Hackney Central,['910GHACKNYC'],['N/A'],['London Overground']
+Hackney Downs,['910GHAKNYNM'],['N/A'],['London Overground']
+Hackney Wick,['910GHACKNYW'],['N/A'],['London Overground']
+Haggerston,['910GHAGGERS'],['N/A'],['London Overground']
+Hainault,['940GZZLUHLT'],['N/A'],['Central']
+Hammersmith,"['940GZZLUHSC', '940GZZLUHSD']",['HUBHMS'],"['Circle', 'District', 'Hammersmith & City', 'Piccadilly']"
+Hampstead,['940GZZLUHTD'],['N/A'],['Northern']
+Hampstead Heath,['910GHMPSTDH'],['N/A'],['London Overground']
+Hanger Lane,['940GZZLUHGR'],['N/A'],['Central']
+Hanwell,['910GHANWELL'],['N/A'],['Elizabeth line']
+Harlesden,"['940GZZLUHSN', '910GHARLSDN']",['HUBHDN'],"['Bakerloo', 'London Overground']"
+Harold Wood,['910GHRLDWOD'],['N/A'],['Elizabeth line']
+Harringay Green Lanes,['910GHRGYGL'],['N/A'],['London Overground']
+Harrington Road,['940GZZCRHAR'],['N/A'],['Tram']
+Harrow & Wealdstone,"['940GZZLUHAW', '910GHROW']",['HUBHRW'],"['Bakerloo', 'London Overground']"
+Harrow-on-the-Hill,['940GZZLUHOH'],['HUBHOH'],['Metropolitan']
+Hatch End,['910GHTCHEND'],['N/A'],['London Overground']
+Hatton Cross,['940GZZLUHNX'],['N/A'],['Piccadilly']
+Hayes & Harlington,['910GHAYESAH'],['N/A'],['Elizabeth line']
+Headstone Lane,['910GHEDSTNL'],['N/A'],['London Overground']
+Heathrow Terminal 4,"['940GZZLUHR4', '910GHTRWTM4']",['HUBHX4'],"['Elizabeth line', 'Piccadilly']"
+Heathrow Terminal 5,"['940GZZLUHR5', '910GHTRWTM5']",['HUBHX5'],"['Elizabeth line', 'Piccadilly']"
+Heathrow Terminals 2 & 3,"['940GZZLUHRC', '910GHTRWAPT']",['HUBH13'],"['Elizabeth line', 'Piccadilly']"
+Hendon Central,['940GZZLUHCL'],['N/A'],['Northern']
+Heron Quays,['940GZZDLHEQ'],['N/A'],['DLR']
+High Barnet,['940GZZLUHBT'],['N/A'],['Northern']
+High Street Kensington,['940GZZLUHSK'],['N/A'],"['Circle', 'District']"
+Highams Park,['910GHGHMSPK'],['N/A'],['London Overground']
+Highbury & Islington,"['940GZZLUHAI', '910GHGHI']",['HUBHHY'],"['London Overground', 'Victoria']"
+Highgate,['940GZZLUHGT'],['N/A'],['Northern']
+Hillingdon,['940GZZLUHGD'],['N/A'],"['Metropolitan', 'Piccadilly']"
+Holborn,['940GZZLUHBN'],['N/A'],"['Central', 'Piccadilly']"
+Holland Park,['940GZZLUHPK'],['N/A'],['Central']
+Holloway Road,['940GZZLUHWY'],['N/A'],['Piccadilly']
+Homerton,['910GHOMRTON'],['N/A'],['London Overground']
+Honor Oak Park,['910GHONROPK'],['N/A'],['London Overground']
+Hornchurch,['940GZZLUHCH'],['N/A'],['District']
+Hounslow Central,['940GZZLUHWC'],['N/A'],['Piccadilly']
+Hounslow East,['940GZZLUHWE'],['N/A'],['Piccadilly']
+Hounslow West,['940GZZLUHWT'],['N/A'],['Piccadilly']
+Hoxton,['910GHOXTON'],['N/A'],['London Overground']
+Hyde Park Corner,['940GZZLUHPC'],['N/A'],['Piccadilly']
+Ickenham,['940GZZLUICK'],['N/A'],"['Metropolitan', 'Piccadilly']"
+Ilford,['910GILFORD'],['N/A'],['Elizabeth line']
+Imperial Wharf,['910GCSEAH'],['HUBIMP'],['London Overground']
+Island Gardens,['940GZZDLISL'],['N/A'],['DLR']
+Iver,['910GIVER'],['N/A'],['Elizabeth line']
+Kennington,['940GZZLUKNG'],['N/A'],['Northern']
+Kensal Green,"['940GZZLUKSL', '910GKENSLG']",['HUBKNL'],"['Bakerloo', 'London Overground']"
+Kensal Rise,['910GKENR'],['N/A'],['London Overground']
+Kensington (Olympia),"['940GZZLUKOY', '910GKENOLYM']",['HUBKPA'],"['District', 'London Overground']"
+Kentish Town,['940GZZLUKSH'],['HUBKTN'],['Northern']
+Kentish Town West,['910GKNTSHTW'],['N/A'],['London Overground']
+Kenton,"['940GZZLUKEN', '910GKTON']",['HUBKNT'],"['Bakerloo', 'London Overground']"
+Kew Gardens,"['940GZZLUKWG', '910GKEWGRDN']",['HUBKWG'],"['District', 'London Overground']"
+Kilburn,['940GZZLUKBN'],['N/A'],['Jubilee']
+Kilburn High Road,['910GKLBRNHR'],['N/A'],['London Overground']
+Kilburn Park,['940GZZLUKPK'],['N/A'],['Bakerloo']
+King George V,['940GZZDLKGV'],['N/A'],['DLR']
+King Henry's Drive,['940GZZCRKGH'],['N/A'],['Tram']
+King's Cross St.Pancras,['940GZZLUKSX'],['HUBKGX'],"['Circle', 'Hammersmith & City', 'Metropolitan', 'Northern', 'Piccadilly', 'Victoria']"
+Kingsbury,['940GZZLUKBY'],['N/A'],['Jubilee']
+Knightsbridge,['940GZZLUKNB'],['N/A'],['Piccadilly']
+Ladbroke Grove,['940GZZLULAD'],['N/A'],"['Circle', 'Hammersmith & City']"
+Lambeth North,['940GZZLULBN'],['N/A'],['Bakerloo']
+Lancaster Gate,['940GZZLULGT'],['N/A'],['Central']
+Langdon Park,['940GZZDLLDP'],['N/A'],['DLR']
+Langley (Berks),['910GLANGLEY'],['N/A'],['Elizabeth line']
+Latimer Road,['940GZZLULRD'],['N/A'],"['Circle', 'Hammersmith & City']"
+Lebanon Road,['940GZZCRLEB'],['N/A'],['Tram']
+Leicester Square,['940GZZLULSQ'],['N/A'],"['Northern', 'Piccadilly']"
+Lewisham,['940GZZDLLEW'],['HUBLEW'],['DLR']
+Leyton,['940GZZLULYN'],['N/A'],['Central']
+Leyton Midland Road,['910GLEYTNMR'],['N/A'],['London Overground']
+Leytonstone,['940GZZLULYS'],['N/A'],['Central']
+Leytonstone High Road,['910GLYTNSHR'],['N/A'],['London Overground']
+Limehouse,['940GZZDLLIM'],['HUBLHS'],['DLR']
+Liverpool Street,"['940GZZLULVT', '910GLIVST', '910GLIVSTLL']",['HUBLST'],"['Central', 'Circle', 'Elizabeth line', 'Hammersmith & City', 'London Overground', 'Metropolitan']"
+Lloyd Park,['940GZZCRLOY'],['N/A'],['Tram']
+London Bridge,['940GZZLULNB'],['HUBLBG'],"['Jubilee', 'Northern']"
+London City Airport,['940GZZDLLCA'],['HUBLCY'],['DLR']
+London Euston,['910GEUSTON'],['HUBEUS'],"['London Overground', 'Northern', 'Victoria']"
+London Fields,['910GLONFLDS'],['N/A'],['London Overground']
+Loughton,['940GZZLULGN'],['N/A'],['Central']
+Maida Vale,['940GZZLUMVL'],['N/A'],['Bakerloo']
+Maidenhead,['910GMDNHEAD'],['N/A'],['Elizabeth line']
+Manor House,['940GZZLUMRH'],['N/A'],['Piccadilly']
+Manor Park,['910GMANRPK'],['N/A'],['Elizabeth line']
+Mansion House,['940GZZLUMSH'],['N/A'],"['Circle', 'District']"
+Marble Arch,['940GZZLUMBA'],['N/A'],['Central']
+Maryland,['910GMRYLAND'],['N/A'],['Elizabeth line']
+Marylebone,['940GZZLUMYB'],['HUBMYB'],['Bakerloo']
+Merton Park,['940GZZCRMTP'],['N/A'],['Tram']
+Mile End,['940GZZLUMED'],['N/A'],"['Central', 'District', 'Hammersmith & City']"
+Mill Hill East,['940GZZLUMHL'],['N/A'],['Northern']
+Mitcham,['940GZZCRMCH'],['N/A'],['Tram']
+Mitcham Junction,['940GZZCRMJT'],['HUBMJT'],['Tram']
+Monument,['940GZZLUMMT'],['N/A'],"['Circle', 'District']"
+Moor Park,['940GZZLUMPK'],['N/A'],['Metropolitan']
+Moorgate,['940GZZLUMGT'],['HUBZMG'],"['Circle', 'Hammersmith & City', 'Metropolitan', 'Northern']"
+Morden,['940GZZLUMDN'],['N/A'],['Northern']
+Morden Road,['940GZZCRMDN'],['N/A'],['Tram']
+Mornington Crescent,['940GZZLUMTC'],['N/A'],['Northern']
+Mudchute,['940GZZDLMUD'],['N/A'],['DLR']
+Neasden,['940GZZLUNDN'],['N/A'],['Jubilee']
+New Addington,['940GZZCRNWA'],['N/A'],['Tram']
+New Cross,['910GNWCRELL'],['HUBNWX'],['London Overground']
+New Cross Gate,['910GNEWXGTE'],['HUBNXG'],['London Overground']
+Newbury Park,['940GZZLUNBP'],['N/A'],['Central']
+Nine Elms,['940GZZNEUGST'],['N/A'],['Northern']
+North Acton,['940GZZLUNAN'],['N/A'],['Central']
+North Ealing,['940GZZLUNEN'],['N/A'],['Piccadilly']
+North Greenwich,['940GZZLUNGW'],['HUBNGW'],['Jubilee']
+North Harrow,['940GZZLUNHA'],['N/A'],['Metropolitan']
+North Wembley,"['940GZZLUNWY', '910GNWEMBLY']",['HUBNWB'],"['Bakerloo', 'London Overground']"
+Northfields,['940GZZLUNFD'],['N/A'],['Piccadilly']
+Northolt,['940GZZLUNHT'],['N/A'],['Central']
+Northwick Park,['940GZZLUNKP'],['N/A'],['Metropolitan']
+Northwood,['940GZZLUNOW'],['N/A'],['Metropolitan']
+Northwood Hills,['940GZZLUNWH'],['N/A'],['Metropolitan']
+Norwood Junction,['910GNORWDJ'],['HUBNWD'],['London Overground']
+Notting Hill Gate,['940GZZLUNHG'],['N/A'],"['Central', 'Circle', 'District']"
+Oakwood,['940GZZLUOAK'],['N/A'],['Piccadilly']
+Old Street,['940GZZLUODS'],['HUBOLD'],['Northern']
+Osterley,['940GZZLUOSY'],['N/A'],['Piccadilly']
+Oval,['940GZZLUOVL'],['N/A'],['Northern']
+Oxford Circus,['940GZZLUOXC'],['N/A'],"['Bakerloo', 'Central', 'Victoria']"
+Paddington,"['940GZZLUPAC', '940GZZLUPAH', '910GPADTLL', '910GPADTON']",['HUBPAD'],"['Bakerloo', 'Circle', 'District', 'Elizabeth line', 'Hammersmith & City']"
+Park Royal,['940GZZLUPKR'],['N/A'],['Piccadilly']
+Parsons Green,['940GZZLUPSG'],['N/A'],['District']
+Peckham Rye,['910GPCKHMRY'],['N/A'],['London Overground']
+Penge West,['910GPENEW'],['N/A'],['London Overground']
+Perivale,['940GZZLUPVL'],['N/A'],['Central']
+Phipps Bridge,['940GZZCRPHI'],['N/A'],['Tram']
+Piccadilly Circus,['940GZZLUPCC'],['N/A'],"['Bakerloo', 'Piccadilly']"
+Pimlico,['940GZZLUPCO'],['N/A'],['Victoria']
+Pinner,['940GZZLUPNR'],['N/A'],['Metropolitan']
+Plaistow,['940GZZLUPLW'],['N/A'],"['District', 'Hammersmith & City']"
+Pontoon Dock,['940GZZDLPDK'],['N/A'],['DLR']
+Poplar,['940GZZDLPOP'],['N/A'],['DLR']
+Preston Road,['940GZZLUPRD'],['N/A'],['Metropolitan']
+Prince Regent,['940GZZDLPRE'],['N/A'],['DLR']
+Pudding Mill Lane,['940GZZDLPUD'],['N/A'],['DLR']
+Putney Bridge,['940GZZLUPYB'],['N/A'],['District']
+Queen's Park,"['940GZZLUQPS', '910GQPRK']",['HUBQPW'],"['Bakerloo', 'London Overground']"
+Queens Road Peckham,['910GPCKHMQD'],['N/A'],['London Overground']
+Queensbury,['940GZZLUQBY'],['N/A'],['Jubilee']
+Queensway,['940GZZLUQWY'],['N/A'],['Central']
+Ravenscourt Park,['940GZZLURVP'],['N/A'],['District']
+Rayners Lane,['940GZZLURYL'],['N/A'],"['Metropolitan', 'Piccadilly']"
+Reading,['910GRDNGSTN'],['N/A'],['Elizabeth line']
+Rectory Road,['910GRCTRYRD'],['N/A'],['London Overground']
+Redbridge,['940GZZLURBG'],['N/A'],['Central']
+Reeves Corner,['940GZZCRRVC'],['N/A'],['Tram']
+Regent's Park,['940GZZLURGP'],['N/A'],['Bakerloo']
+Richmond,"['940GZZLURMD', '910GRICHMND']",['HUBRMD'],"['District', 'London Overground']"
+Rickmansworth,['940GZZLURKW'],['HUBRIC'],['Metropolitan']
+Roding Valley,['940GZZLURVY'],['N/A'],['Central']
+Romford,['910GROMFORD'],['N/A'],"['Elizabeth line', 'London Overground']"
+Rotherhithe,['910GRTHERHI'],['N/A'],['London Overground']
+Royal Albert Dlr,['940GZZDLRAL'],['N/A'],['DLR']
+Royal Oak,['940GZZLURYO'],['N/A'],"['Circle', 'Hammersmith & City']"
+Royal Victoria,['940GZZDLRVC'],['HUBRVC'],['DLR']
+Ruislip,['940GZZLURSP'],['N/A'],"['Metropolitan', 'Piccadilly']"
+Ruislip Gardens,['940GZZLURSG'],['N/A'],['Central']
+Ruislip Manor,['940GZZLURSM'],['N/A'],"['Metropolitan', 'Piccadilly']"
+Russell Square,['940GZZLURSQ'],['N/A'],['Piccadilly']
+Sandilands,['940GZZCRSAN'],['N/A'],['Tram']
+Seven Kings,['910GSVNKNGS'],['N/A'],['Elizabeth line']
+Seven Sisters,"['940GZZLUSVS', '910GSEVNSIS']",['HUBSVS'],"['London Overground', 'Victoria']"
+Shadwell,"['910GSHADWEL', '940GZZDLSHA']",['HUBSDE'],"['DLR', 'London Overground']"
+Shenfield,['910GSHENFLD'],['N/A'],['Elizabeth line']
+Shepherd's Bush,"['940GZZLUSBC', '910GSHPDSB']",['HUBSPB'],"['Central', 'London Overground']"
+Shepherd's Bush Market,['940GZZLUSBM'],['N/A'],"['Circle', 'Hammersmith & City']"
+Shoreditch High Street,['910GSHRDHST'],['N/A'],['London Overground']
+Silver Street,['910GSIVRST'],['N/A'],['London Overground']
+Sloane Square,['940GZZLUSSQ'],['N/A'],"['Circle', 'District']"
+Slough,['910GSLOUGH'],['N/A'],['Elizabeth line']
+Snaresbrook,['940GZZLUSNB'],['N/A'],['Central']
+South Acton,['910GSACTON'],['N/A'],['London Overground']
+South Ealing,['940GZZLUSEA'],['N/A'],['Piccadilly']
+South Hampstead,['910GSHMPSTD'],['N/A'],['London Overground']
+South Harrow,['940GZZLUSHH'],['N/A'],['Piccadilly']
+South Kensington,['940GZZLUSKS'],['N/A'],"['Circle', 'District', 'Piccadilly']"
+South Kenton,"['940GZZLUSKT', '910GSKENTON']",['HUBSOK'],"['Bakerloo', 'London Overground']"
+South Quay,['940GZZDLSOQ'],['N/A'],['DLR']
+South Ruislip,['940GZZLUSRP'],['HUBSRU'],['Central']
+South Tottenham,['910GSTOTNHM'],['N/A'],['London Overground']
+South Wimbledon,['940GZZLUSWN'],['N/A'],['Northern']
+South Woodford,['940GZZLUSWF'],['N/A'],['Central']
+Southall,['910GSTHALL'],['N/A'],['Elizabeth line']
+Southbury,['910GSBURY'],['N/A'],['London Overground']
+Southfields,['940GZZLUSFS'],['N/A'],['District']
+Southgate,['940GZZLUSGT'],['N/A'],['Piccadilly']
+Southwark,['940GZZLUSWK'],['N/A'],['Jubilee']
+St James Street (London),['910GSTJMSST'],['N/A'],['London Overground']
+St John's Wood,['940GZZLUSJW'],['N/A'],['Jubilee']
+St. James's Park,['940GZZLUSJP'],['N/A'],"['Circle', 'District']"
+St. Paul's,['940GZZLUSPU'],['N/A'],['Central']
+Stamford Brook,['940GZZLUSFB'],['N/A'],['District']
+Stamford Hill,['910GSTMFDHL'],['N/A'],['London Overground']
+Stanmore,['940GZZLUSTM'],['N/A'],['Jubilee']
+Star Lane,['940GZZDLSTL'],['N/A'],['DLR']
+Stepney Green,['940GZZLUSGN'],['N/A'],"['District', 'Hammersmith & City']"
+Stockwell,['940GZZLUSKW'],['N/A'],"['Northern', 'Victoria']"
+Stoke Newington,['910GSTKNWNG'],['N/A'],['London Overground']
+Stonebridge Park,"['940GZZLUSGP', '910GSTNBGPK']",['HUBSBP'],"['Bakerloo', 'London Overground']"
+Stratford,"['940GZZLUSTD', '910GSTFD', '940GZZDLSTD']",['HUBSRA'],"['Central', 'DLR', 'Elizabeth line', 'Jubilee', 'London Overground']"
+Stratford High Street,['940GZZDLSHS'],['N/A'],['DLR']
+Stratford International,['940GZZDLSIT'],['N/A'],['DLR']
+Sudbury Hill,['940GZZLUSUH'],['N/A'],['Piccadilly']
+Sudbury Town,['940GZZLUSUT'],['N/A'],['Piccadilly']
+Surrey Quays,['910GSURREYQ'],['N/A'],['London Overground']
+Swiss Cottage,['940GZZLUSWC'],['N/A'],['Jubilee']
+Sydenham,['910GSYDENHM'],['HUBSYD'],['London Overground']
+Tamworth Road / Centrale,['940GZZCRCTR'],['N/A'],['Tram']
+Taplow,['910GTAPLOW'],['N/A'],['Elizabeth line']
+Temple,['940GZZLUTMP'],['N/A'],"['Circle', 'District']"
+Theobalds Grove,['910GTHBLDSG'],['N/A'],['London Overground']
+Therapia Lane,['940GZZCRTPA'],['N/A'],['Tram']
+Theydon Bois,['940GZZLUTHB'],['N/A'],['Central']
+Tooting Bec,['940GZZLUTBC'],['N/A'],['Northern']
+Tooting Broadway,['940GZZLUTBY'],['N/A'],['Northern']
+Tottenham Court Road,"['940GZZLUTCR', '910GTOTCTRD']",['HUBTCR'],"['Central', 'Elizabeth line', 'Northern']"
+Tottenham Hale,['940GZZLUTMH'],['HUBTOM'],['Victoria']
+Totteridge & Whetstone,['940GZZLUTAW'],['N/A'],['Northern']
+Tower Gateway,['940GZZDLTWG'],['HUBTOG'],['DLR']
+Tower Hill,['940GZZLUTWH'],['N/A'],"['Circle', 'District']"
+Tufnell Park,['940GZZLUTFP'],['N/A'],['Northern']
+Turkey Street,['910GTURKYST'],['N/A'],['London Overground']
+Turnham Green,['940GZZLUTNG'],['N/A'],"['District', 'Piccadilly']"
+Turnpike Lane,['940GZZLUTPN'],['N/A'],['Piccadilly']
+Twyford,['910GTWYFORD'],['N/A'],['Elizabeth line']
+Upminster,"['940GZZLUUPM', '910GUPMNSTR']",['HUBUPM'],"['District', 'London Overground']"
+Upminster Bridge,['940GZZLUUPB'],['N/A'],['District']
+Upney,['940GZZLUUPY'],['N/A'],['District']
+Upper Holloway,['910GUPRHLWY'],['N/A'],['London Overground']
+Upton Park,['940GZZLUUPK'],['N/A'],"['District', 'Hammersmith & City']"
+Uxbridge,['940GZZLUUXB'],['N/A'],"['Metropolitan', 'Piccadilly']"
+Vauxhall,['940GZZLUVXL'],['HUBVXH'],['Victoria']
+Victoria,['940GZZLUVIC'],['HUBVIC'],"['Circle', 'District', 'Victoria']"
+Waddon Marsh,['940GZZCRWAD'],['N/A'],['Tram']
+Walthamstow Central,"['940GZZLUWWL', '910GWLTWCEN']",['HUBWHC'],"['London Overground', 'Victoria']"
+Walthamstow Queens Road,['910GWLTHQRD'],['N/A'],['London Overground']
+Wandle Park,['940GZZCRWAN'],['N/A'],['Tram']
+Wandsworth Road,['910GWNDSWRD'],['N/A'],['London Overground']
+Wanstead,['940GZZLUWSD'],['N/A'],['Central']
+Wanstead Park,['910GWNSTDPK'],['N/A'],['London Overground']
+Wapping,['910GWAPPING'],['N/A'],['London Overground']
+Warren Street,['940GZZLUWRR'],['N/A'],"['Northern', 'Victoria']"
+Warwick Avenue,['940GZZLUWKA'],['N/A'],['Bakerloo']
+Waterloo,['940GZZLUWLO'],['HUBWAT'],"['Bakerloo', 'Jubilee', 'Northern', 'Waterloo & City']"
+Watford,['940GZZLUWAF'],['N/A'],['Metropolitan']
+Watford High Street,['910GWATFDHS'],['N/A'],['London Overground']
+Watford Junction,"['910GWATFDJ', '910GWATFJDC']",['HUBWFJ'],['London Overground']
+Wellesley Road,['940GZZCRWEL'],['N/A'],['Tram']
+Wembley Central,"['940GZZLUWYC', '910GWMBY']",['HUBWMB'],"['Bakerloo', 'London Overground']"
+Wembley Park,['940GZZLUWYP'],['N/A'],"['Jubilee', 'Metropolitan']"
+West Acton,['940GZZLUWTA'],['N/A'],['Central']
+West Brompton,"['940GZZLUWBN', '910GWBRMPTN']",['HUBWBP'],"['District', 'London Overground']"
+West Croydon,"['910GWCROYDN', '940GZZCRWCR']",['HUBWCY'],"['London Overground', 'Tram']"
+West Drayton,['910GWDRYTON'],['N/A'],['Elizabeth line']
+West Ealing,['910GWEALING'],['N/A'],['Elizabeth line']
+West Finchley,['940GZZLUWFN'],['N/A'],['Northern']
+West Ham,"['940GZZLUWHM', '940GZZDLWHM']",['HUBWEH'],"['DLR', 'District', 'Hammersmith & City', 'Jubilee']"
+West Hampstead,"['940GZZLUWHP', '910GWHMDSTD']",['HUBWHD'],"['Jubilee', 'London Overground']"
+West Harrow,['940GZZLUWHW'],['N/A'],['Metropolitan']
+West India Quay,['940GZZDLWIQ'],['N/A'],['DLR']
+West Kensington,['940GZZLUWKN'],['N/A'],['District']
+West Ruislip,['940GZZLUWRP'],['HUBWRU'],['Central']
+West Silvertown,['940GZZDLWSV'],['N/A'],['DLR']
+Westbourne Park,['940GZZLUWSP'],['N/A'],"['Circle', 'Hammersmith & City']"
+Westferry,['940GZZDLWFE'],['N/A'],['DLR']
+Westminster,['940GZZLUWSM'],['HUBWSM'],"['Circle', 'District', 'Jubilee']"
+White City,['940GZZLUWCY'],['N/A'],['Central']
+White Hart Lane,['910GWHHRTLA'],['N/A'],['London Overground']
+Whitechapel,"['940GZZLUWPL', '910GWCHAPEL', '910GWCHAPXR']",['HUBZWL'],"['District', 'Elizabeth line', 'Hammersmith & City', 'London Overground']"
+Willesden Green,['940GZZLUWIG'],['N/A'],['Jubilee']
+Willesden Junction,"['940GZZLUWJN', '910GWLSDJHL']",['HUBWIJ'],"['Bakerloo', 'London Overground']"
+Wimbledon,"['940GZZLUWIM', '940GZZCRWMB']",['HUBWIM'],"['District', 'Tram']"
+Wimbledon Park,['940GZZLUWIP'],['N/A'],['District']
+Wood Green,['940GZZLUWOG'],['N/A'],['Piccadilly']
+Wood Lane,['940GZZLUWLA'],['N/A'],"['Circle', 'Hammersmith & City']"
+Wood Street,['910GWDST'],['N/A'],['London Overground']
+Woodford,['940GZZLUWOF'],['N/A'],['Central']
+Woodgrange Park,['910GWDGRNPK'],['N/A'],['London Overground']
+Woodside,['940GZZCRWOD'],['N/A'],['Tram']
+Woodside Park,['940GZZLUWOP'],['N/A'],['Northern']
+Woolwich,['910GWOLWXR'],['N/A'],['Elizabeth line']
+Woolwich Arsenal,['940GZZDLWLA'],['HUBWWA'],['DLR']
